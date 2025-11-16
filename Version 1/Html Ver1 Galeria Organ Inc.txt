@@ -1,0 +1,120 @@
+CODIGO DEL Proyecto de Opción de Grado 3D Organ-Inc Versión 1, HTML de la Pagina " Galería " WEB:
+
+
+<t t-name="website.galeria">
+    <t t-call="website.layout">
+        <div id="wrap" class="oe_structure oe_empty"><section class="s_text_block pb0 o_colored_level pt16" data-snippet="s_text_block">
+        <div class="container s_allow_columns"><h2 style="text-align: justify;">&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 🧬 <strong>Galería de Modelos 3D</strong></h2><h3 style="text-align: center;"><strong>Explora, aprende y visualiza el futuro de la bioimpresión</strong></h3><h3><br/></h3></div>
+    </section>
+    <section class="s_text_block o_colored_level pt24 pb16" data-snippet="s_text_block">
+        <div class="s_allow_columns container"><p><span class="h5-fs">Bienvenido a la galería interactiva de <strong>3D Organ Inc</strong>, donde podrás explorar modelos anatómicos tridimensionales, animaciones, tutoriales y audios explicativos.</span></p><p><span class="h5-fs">
+Cada órgano incluye su propio módulo educativo con explicaciones visuales del proceso de <strong>bioimpresión 3D</strong>, desde el diseño digital hasta la creación del tejido.</span></p></div>
+    </section>
+    <section class="s_three_columns o_colored_level pt0 pb24" data-vxml="001" data-vcss="001" data-snippet="s_three_columns">
+        <div class="container">
+            <div class="row d-flex align-items-stretch">
+                <div data-name="Card" class="col-lg-4 pt16 pb16">
+                    <div class="s_card o_card_img_top card h-100 o_cc o_cc1 my-0 o_colored_level" data-vxml="001" data-snippet="s_card" data-name="Card">
+                        <figure class="o_card_img_wrapper ratio ratio-16x9 mb-0">
+                            <img class="o_card_img card-img-top" src="/web/image/website.s_three_columns_default_image_1" alt="" loading="lazy"/>
+                        </figure>
+                        <div class="card-body">
+                            <h2 class="card-title h5-fs">🦻 <strong>Modelo del Oído</strong></h2>
+                            <p class="card-text">Explora la anatomía del oído humano y comprende cómo este órgano capta, amplifica y transforma las ondas sonoras en señales eléctricas para el cerebro.</p><p class="card-text">Mediante recursos educativos como un modelo 3D interactivo, animaciones educativas y audios con subtitulos visualizaras y podrás observar sus tres secciones (externa, media e interna), ademas de aprender su funcionamiento y partes; conoceras el proceso de bioimpresion 3d del mismo para su reemplazo en el ambito de la medicina regenerativa.</p>
+                        </div>
+        <div class="card-footer">
+            <a class="card-link" href="/oido">Conocer más al respecto...</a>
+        </div>
+                    </div>
+                </div>
+                <div data-name="Card" class="col-lg-4 pt16 pb16">
+                    <div class="s_card o_card_img_top card h-100 o_cc o_cc1 my-0 o_colored_level" data-vxml="001" data-snippet="s_card" data-name="Card">
+                        <figure class="o_card_img_wrapper ratio ratio-16x9 mb-0">
+                            <img class="o_card_img card-img-top" src="/web/image/website.s_three_columns_default_image_2" alt="" loading="lazy"/>
+                        </figure>
+                        <div class="card-body">
+                            <h2 class="card-title h5-fs">🧫 <strong>Más órganos en camino</strong></h2><p><br/></p>
+                            <p class="card-text">
+        En un futuro seguiremos ampliando nuestra galería con nuevos modelos y módulos educativos&amp;nbsp; progresivamente.</p><p class="card-text">&amp;nbsp;El objetivo es que <strong>cualquier persona</strong>, desde estudiantes hasta curiosos, pueda visualizar cómo la tecnología 3D está transformando la medicina regenerativa en la actualidad.&amp;nbsp;</p>
+                        </div>
+        <div class="card-footer">
+            <a href="#" class="card-link">Conocer más al respecto...</a>
+        </div>
+                    </div>
+                </div>
+                <div data-name="Card" class="col-lg-4 pt16 pb16">
+                    <div class="s_card card h-100 o_cc o_cc1 my-0 o_colored_level o_card_img_top" data-vxml="001" data-snippet="s_card" data-name="Card">
+                        <figure class="o_card_img_wrapper mb-0 ratio ratio-16x9">
+                            <img class="o_card_img card-img-top" src="/web/image/website.s_three_columns_default_image_3" alt="" loading="lazy"/>
+                        </figure>
+                        <div class="card-body">
+                            <h2 class="card-title h5-fs">&amp;nbsp;Modelo del Organo<br/></h2>
+                            <p class="card-text">
+        Aprende a utilizar métodos de jardinería ecológica para cultivar los alimentos más frescos en tu huerto.
+    </p>
+                        </div>
+        <div class="card-footer">
+            <a href="#" class="card-link">Conocer más al respecto...</a>
+        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="s_three_columns o_colored_level pb80 pt40" data-vxml="001" data-vcss="001" data-snippet="s_three_columns">
+        <div class="container">
+            <div class="row d-flex align-items-stretch">
+                <div data-name="Card" class="col-lg-4 pt16 pb16">
+                    <div class="s_card o_card_img_top card h-100 o_cc o_cc1 my-0 o_colored_level" data-vxml="001" data-snippet="s_card" data-name="Card">
+                        <figure class="o_card_img_wrapper ratio ratio-16x9 mb-0">
+                            <img class="o_card_img card-img-top" src="/web/image/website.s_three_columns_default_image_1" alt="" loading="lazy"/>
+                        </figure>
+                        <div class="card-body">
+                            <h2 class="card-title h5-fs">&amp;nbsp;Prueba<br/></h2>
+                            <p class="card-text">
+        La reutilización del agua en lugar de utilizar agua dulce puede ser una buena forma de reducir el consumo de agua.
+    </p>
+                        </div>
+        <div class="card-footer">
+            <a href="#" class="card-link">Leer más</a>
+        </div>
+                    </div>
+                </div>
+                <div data-name="Card" class="col-lg-4 pt16 pb16">
+                    <div class="s_card o_card_img_top card h-100 o_cc o_cc1 my-0 o_colored_level" data-vxml="001" data-snippet="s_card" data-name="Card">
+                        <figure class="o_card_img_wrapper ratio ratio-16x9 mb-0">
+                            <img class="o_card_img card-img-top" src="/web/image/website.s_three_columns_default_image_2" alt="" loading="lazy"/>
+                        </figure>
+                        <div class="card-body">
+                            <h2 class="card-title h5-fs">Modelo de Prueba</h2>
+                            <p class="card-text">
+        Hábitats con una huella mínima en el planeta y un impacto positivo máximo en la comunidad local.
+    </p>
+                        </div>
+        <div class="card-footer">
+            <a href="#" class="card-link">Leer más</a>
+        </div>
+                    </div>
+                </div>
+                <div data-name="Card" class="col-lg-4 pt16 pb16">
+                    <div class="s_card o_card_img_top card h-100 o_cc o_cc1 my-0 o_colored_level" data-vxml="001" data-snippet="s_card" data-name="Card">
+                        <figure class="o_card_img_wrapper ratio ratio-16x9 mb-0">
+                            <img class="o_card_img card-img-top" src="/web/image/website.s_three_columns_default_image_3" alt="" loading="lazy"/>
+                        </figure>
+                        <div class="card-body">
+                            <h2 class="card-title h5-fs">&amp;nbsp;Modelo Probar<br/></h2>
+                            <p class="card-text">
+        Aprende a utilizar métodos de jardinería ecológica para cultivar los alimentos más frescos en tu huerto.
+    </p>
+                        </div>
+        <div class="card-footer">
+            <a href="#" class="card-link">Leer más</a>
+        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>
+    </t>
+</t>

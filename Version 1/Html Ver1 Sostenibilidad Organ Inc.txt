@@ -1,0 +1,22 @@
+CODIGO DEL Proyecto de Opción de Grado 3D Organ-Inc Versión 1, HTML de la Pagina " Sostenibilidad " WEB:
+
+
+<t t-name="website.sostenibilidad">
+    <t t-call="website.layout">
+        <div id="wrap" class="oe_structure oe_empty"><section class="s_text_cover o_colored_level o_cc o_cc5 o_full_screen_height" data-snippet="s_text_cover">
+        <div class="container-fluid">
+            <div class="row o_grid_mode" data-row-count="11">
+                <div class="o_grid_item g-height-9 o_cc o_cc1 g-col-lg-6 col-lg-6 o_colored_level" style="z-index: 1;--grid-item-padding-x: 24px;--grid-item-padding-y: 24px;grid-area: 2 / 3 / 11 / 9">
+                    <h1 class="display-3">
+        Promovemos la<br/>sostenibilidad.</h1>
+                    <p class="lead">
+        <br/>Resalta tus iniciativas medioambientales y proyectos con una plataforma fácil de usar que simplifica todos los pasos, desde le configuración hasta la gestión de la campaña. Atraer seguidores e impulsar un cambio positivo jamás había sido tan fácil.<br/></p>
+                    <a class="btn btn-lg btn-primary">&amp;nbsp;Empezar a promover&amp;nbsp;</a>
+                </div>
+                <div class="o_grid_item g-height-11 g-col-lg-6 col-lg-6 o_cc o_cc1 oe_img_bg o_not_editable d-none d-lg-block o_snippet_mobile_invisible o_colored_level" style="grid-area: 1 / 7 / 12 / 13; --grid-item-padding-x: 0px; --grid-item-padding-y: 0px; background-image: url('/web/image/website.s_text_cover_default_image');" data-invisible="1"/>
+            </div>
+        </div>
+    </section>
+</div>
+    </t>
+</t>

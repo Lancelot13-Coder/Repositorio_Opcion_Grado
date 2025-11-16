@@ -1,0 +1,61 @@
+CODIGO DEL Proyecto de Opción de Grado 3D Organ-Inc Versión 1, HTML de la Pagina " Políticas de Privacidad " WEB:
+
+
+<t name="Privacy Policy" t-name="website.politica-de-privacidad">
+        <t t-call="website.layout">
+            <div id="wrap" class="">
+                <div class="oe_structure">
+                    <section class="s_title parallax s_parallax_is_fixed bg-black-50 pt24 pb24 o_colored_level" data-vcss="001" data-snippet="s_title" data-scroll-background-ratio="1">
+                        <span class="s_parallax_bg oe_img_bg o_bg_img_center o_bg_img_origin_border_box" style="background-image: url('/web/image/website.s_parallax_default_image'); background-position: 50% 0;"/>
+                        <div class="o_we_bg_filter bg-black-50"/>
+                        <div class="container">
+                            <h1>Políticas de privacidad</h1>
+                        </div>
+                    </section>
+                </div>
+                <div class="oe_structure"><section class="s_faq_collapse o_cc o_cc2 pt64 o_colored_level pb48" data-vcss="001" data-snippet="s_faq_collapse">
+        <div class="container">
+            <div class="row align-items-start s_nb_column_fixed">
+                <div class="col-lg-4 pt16 o_colored_level">
+                    <h2 class="h3-fs">Preguntas frecuentes</h2>
+                    <p class="lead">Estas son algunas de las preguntas comunes que surgen y las politicas de privacidad actuales con las que contamos en nuestra web educativa, aceptalas para continuar; estas politicas son actualizadas periodicamente para la mejora continua de nuestra calidad.</p>
+                </div>
+                <div class="col-lg-7 offset-lg-1 s_col_no_bgcolor" data-name="Accordion Box">
+    <div data-name="Accordion" class="s_accordion">
+        <div id="myCollapse" class="accordion-flush accordion">
+            <div class="accordion-item position-relative z-1" data-name="Accordion Item">
+                <button type="button" class="accordion-header accordion-button justify-content-between gap-2 bg-transparent h6-fs fw-bold text-decoration-none text-reset transition-none collapsed" data-bs-toggle="collapse" aria-expanded="false" id="accordion-button984325_1" data-bs-target="#myCollapseTab984325_1" aria-controls="myCollapseTab984325_1"><span class="flex-grow-1">¿Cuáles son los servicios que ofrece nuestra web?</span></button>
+                <div class="accordion-collapse collapse" data-bs-parent="#myCollapse" role="region" id="myCollapseTab984325_1" aria-labelledby="accordion-button984325_1">
+                    <div class="accordion-body">
+                        <p>Nuestra web se especializa en el aprendizaje, . Adaptamos nuestros servicios para satisfacer las necesidades únicas de empresas en varios sectores para ayudarles a crecer y tener éxito en un mercado competitivo.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="accordion-item position-relative z-1" data-name="Accordion Item">
+                <button type="button" class="accordion-header accordion-button justify-content-between gap-2 bg-transparent h6-fs fw-bold text-decoration-none text-reset transition-none collapsed" data-bs-toggle="collapse" aria-expanded="false" id="accordion-button984325_2" data-bs-target="#myCollapseTab984325_2" aria-controls="myCollapseTab984325_2"><span class="flex-grow-1"><p>Información que recopilamos</p></span></button>
+                <div class="accordion-collapse collapse" data-bs-parent="#myCollapse" role="region" id="myCollapseTab984325_2" aria-labelledby="accordion-button984325_2">
+                    <div class="accordion-body">
+                        <p>Nuestra plataforma web puede solicitarle o registrar su información unicamente con fines educativos y de mejora de nuestro servicio, como:</p><ul>
+<li><p>Nombre o alias del usuario.</p></li>
+<li><p>Dirección de correo electrónico (para acceso o registro en casos muy especificos).</p></li>
+<li><p>Datos de interacción dentro del sitio (por ejemplo: tiempo de uso, módulos visitados o avance en tutoriales).</p></li></ul>
+                    </div>
+                </div>
+            </div>
+            <div class="accordion-item position-relative z-1" data-name="Accordion Item">
+                <button type="button" class="accordion-header accordion-button justify-content-between gap-2 bg-transparent h6-fs fw-bold text-decoration-none text-reset transition-none collapsed" data-bs-toggle="collapse" aria-expanded="false" id="accordion-button984325_3" data-bs-target="#myCollapseTab984325_3" aria-controls="myCollapseTab984325_3"><span class="flex-grow-1"><p>Cambios en esta política</p></span></button>
+                <div class="accordion-collapse collapse" data-bs-parent="#myCollapse" role="region" id="myCollapseTab984325_3" aria-labelledby="accordion-button984325_3">
+                    <div class="accordion-body">
+                        <p>Nos reservamos el derecho de actualizar estas políticas de privacidad en cualquier momento. Las modificaciones entrarán en vigor a partir de su publicación y actualizacion en esta página en especifico.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+                </div>
+            </div>
+        </div>
+    </section></div>
+            </div>
+        </t>
+    </t>
