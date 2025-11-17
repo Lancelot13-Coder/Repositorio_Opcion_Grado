@@ -1,0 +1,138 @@
+CODIGO del Proyecto de Semillero de Opción de Grado llamado 3D Organ-Inc Versión 2, Formato HTML y .text del Modelo 3D Oído Bioimpreso de la PLATAFORMA WEB:
+
+
+
+<t t-name="website.modelo-3d-oido-bioimpreso">
+    <t t-call="website.layout">
+        <div id="wrap" class="oe_structure oe_empty">
+    <section class="s_text_block o_colored_level pb16 pt16" data-snippet="s_text_block">
+        <div class="s_allow_columns container"><p style="text-align: center;"><span class="display-4-fs"><strong>Oído Bioimpreso: Resultado y Consideraciones</strong></span></p><p style="text-align: justify;"><span class="h5-fs">Este modelo representa el oído tras el proceso de bioimpresión. Muestra la forma final y la organización por capas (soporte, matriz, células). En la realidad clínica, el oído bioimpreso debe someterse a pruebas de viabilidad celular, integración vascular y pruebas mecánicas; este modelo te permite observar cómo el diseño digital se traduce en una estructura imprimible.</span></p><p style="text-align: justify;"><span class="h5-fs">
+Al comparar el oído anatómico y el oído bioimpreso verás las decisiones de diseño necesarias para que el tejido sea funcional y biocompatible.</span></p><p style="text-align: justify;"><br/></p><section class="s_embed_code pt8 pb8 text-center" data-snippet="s_embed_code" data-name="Insertar código">
+        <template class="s_embed_code_saved"><script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"/>
+
+<div id="viewer-wrap" style="width:100%; max-width:1200px; margin:0 auto; padding:10px;">
+  <div id="viewer-status" style="padding:12px; color:#444; font-family:Arial, sans-serif;">
+    Probando acceso al modelo 3D...
+  </div>
+  <div id="viewer-container" style="display:none;">
+    <model-viewer id="mv" alt="Modelo 3D del Oido Bioimpreso - 3D Organ Inc" shadow-intensity="1" camera-controls="" auto-rotate="" interaction-prompt="auto" style="width:100%; height:650px; border-radius:12px; background-color:#fff;">
+    </model-viewer>
+    <p style="text-align:center; font-family:Arial, sans-serif; color:#666; margin-top:8px;">
+      Usa el ratón o gesto táctil para girar, acercar y alejar el modelo.
+    </p>
+  </div>
+</div>
+
+<script>
+(async function(){
+  
+  const srcUrl = "https://3d-organ-inc-web.odoo.com/web/content/528?unique=b5fc4e85d7b1fda6fe5949dbf5166ef8b304ea6b&amp;download=true";
+
+  const statusEl = document.getElementById('viewer-status');
+  const cont = document.getElementById('viewer-container');
+  const mv = document.getElementById('mv');
+
+  try {
+    statusEl.textContent = 'Comprobando URL: ' + srcUrl;
+    const resp = await fetch(srcUrl, { method: 'HEAD' }); 
+    if (!resp.ok) {
+      statusEl.innerHTML = '&lt;strong&gt;Error:&lt;/strong&gt; La URL respondió con código ' + resp.status + '.&lt;br&gt;Revisa que la ruta sea accesible públicamente desde el navegador.';
+      return;
+    }
+
+    
+    const ac = resp.headers.get('access-control-allow-origin');
+    if (ac &amp;&amp; ac !== '*' &amp;&amp; !location.origin.includes(new URL(srcUrl, location.href).origin)) {
+      statusEl.innerHTML = '&lt;strong&gt;Advertencia CORS:&lt;/strong&gt; el servidor responde con Access-Control-Allow-Origin = ' + ac + '&lt;br&gt;Esto puede bloquear la carga en model-viewer.';
+    }
+
+    mv.setAttribute('src', srcUrl);
+    cont.style.display = 'block';
+    statusEl.style.display = 'none';
+
+  } catch (err) {
+    statusEl.innerHTML = '&lt;strong&gt;Excepción:&lt;/strong&gt; no se pudo obtener el archivo.&lt;br&gt;Revisa la consola para detalles.&lt;br&gt;&lt;pre style="white-space:pre-wrap;"&gt;' + err + '&lt;/pre&gt;';
+    console.error(err);
+  }
+})();
+</script></template>
+        <div class="s_embed_code_embedded container o_not_editable"><script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"/><div id="viewer-wrap" style="width:100%; max-width:1200px; margin:0 auto; padding:10px;">
+  <div id="viewer-status" style="padding:12px; color:#444; font-family:Arial, sans-serif;">
+    Probando acceso al modelo 3D...
+  </div>
+  <div id="viewer-container" style="display:none;">
+    <model-viewer id="mv" alt="Modelo 3D del Oido Bioimpreso - 3D Organ Inc" shadow-intensity="1" camera-controls="" auto-rotate="" interaction-prompt="auto" style="width:100%; height:650px; border-radius:12px; background-color:#fff;">
+    </model-viewer>
+    <p style="text-align:center; font-family:Arial, sans-serif; color:#666; margin-top:8px;">
+      Usa el ratón o gesto táctil para girar, acercar y alejar el modelo.
+    </p>
+  </div>
+</div><script>
+(async function(){
+  
+  const srcUrl = "https://3d-organ-inc-web.odoo.com/web/content/528?unique=b5fc4e85d7b1fda6fe5949dbf5166ef8b304ea6b&amp;download=true";
+
+  const statusEl = document.getElementById('viewer-status');
+  const cont = document.getElementById('viewer-container');
+  const mv = document.getElementById('mv');
+
+  try {
+    statusEl.textContent = 'Comprobando URL: ' + srcUrl;
+    const resp = await fetch(srcUrl, { method: 'HEAD' }); 
+    if (!resp.ok) {
+      statusEl.innerHTML = '&lt;strong&gt;Error:&lt;/strong&gt; La URL respondió con código ' + resp.status + '.&lt;br&gt;Revisa que la ruta sea accesible públicamente desde el navegador.';
+      return;
+    }
+
+    
+    const ac = resp.headers.get('access-control-allow-origin');
+    if (ac &amp;&amp; ac !== '*' &amp;&amp; !location.origin.includes(new URL(srcUrl, location.href).origin)) {
+      statusEl.innerHTML = '&lt;strong&gt;Advertencia CORS:&lt;/strong&gt; el servidor responde con Access-Control-Allow-Origin = ' + ac + '&lt;br&gt;Esto puede bloquear la carga en model-viewer.';
+    }
+
+    mv.setAttribute('src', srcUrl);
+    cont.style.display = 'block';
+    statusEl.style.display = 'none';
+
+  } catch (err) {
+    statusEl.innerHTML = '&lt;strong&gt;Excepción:&lt;/strong&gt; no se pudo obtener el archivo.&lt;br&gt;Revisa la consola para detalles.&lt;br&gt;&lt;pre style="white-space:pre-wrap;"&gt;' + err + '&lt;/pre&gt;';
+    console.error(err);
+  }
+})();
+</script></div>
+    </section></div>
+    </section><section class="s_text_block o_colored_level pt16 pb16" data-snippet="s_text_block" data-name="Texto">
+        <div class="container s_allow_columns"><p style="text-align: justify;"><span class="h5-fs"><strong>3 Aprendizajes Clave a partir del Material:</strong></span></p><ul>
+<li class="h5-fs"><p style="text-align: justify;">Diferencia entre modelo anatómico y diseño optimizado para impresión.</p></li>
+<li class="h5-fs"><p style="text-align: justify;">Necesidad de soportes y andamiajes porosos para vascularización.</p></li>
+<li class="h5-fs"><p style="text-align: justify;">Etapas posteriores: maduración celular y pruebas funcionales.</p></li>
+</ul><p style="text-align: justify;"><br/></p><p style="text-align: justify;"><span class="h5-fs"><strong>Pregunta de Evaluacion Sobre el Tema:</strong></span></p><p style="text-align: justify;"><span class="h5-fs">
+¿Por qué se usan andamiajes (scaffolds) en bioimpresión?&amp;nbsp;</span></p><p style="text-align: justify;"><br/></p><p style="text-align: justify;"><span class="h5-fs">(a) Estética&amp;nbsp;</span></p><p style="text-align: justify;"><span class="h5-fs">(b) Facilitar vascularización y soporte estructural</span></p><p style="text-align: justify;"><span class="h5-fs">&amp;nbsp;(c) Aumentar peso</span></p><p style="text-align: justify;"><span class="h5-fs">&amp;nbsp;</span></p><p style="text-align: justify;"><span class="h5-fs"><strong>Respuesta: b)</strong></span></p></div>
+    </section><section class="s_striped o_cc o_cc5 o_colored_level pb0 s_custom_snippet pt0" style="position: relative;" data-oe-shape-data="{'shape':'html_builder/Connections/20','colors':{'c5': 'o-color-4'},'flip':[], 'showOnMobile':true}" data-snippet="s_striped" data-name="Sección rayada personalizado personalizado">
+        <div class="o_we_shape o_html_builder_Connections_20 o_shape_show_mobile" style="background-image: url(&quot;/html_editor/shape/html_builder/Connections/20.svg?c5=o-color-4&quot;); background-position: 50% 100%;"/>
+        <div class="container">
+            <p class="lead" style="text-align: center;"><br/></p><p class="lead" style="text-align: center;"><span class="h3-fs"><font class="text-o-color-4"><strong>Contenido Auditivo</strong></font></span></p><p class="lead" style="text-align: center;"><span class="h5-fs"><font style="color: rgb(0, 0, 0);"><strong>Aqui el usuario podra interactuar con el audio respecto al modelo que esta visualizando donde se explica a detalle el proceso que este conlleva.</strong></font></span></p>
+            <p><br/></p>
+            <div class="row">
+                <div class="col-lg-8 offset-lg-2 o_colored_level pb0 pt8">
+                    <div data-oe-expression="//www.youtube.com/embed/o6WqWPRAc7Y?rel=0&amp;autoplay=0&amp;controls=0&amp;loop=1&amp;playlist=o6WqWPRAc7Y" class="mx-auto d-block media_iframe_video" style="width: 25% !important;"/>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    <section class="s_picture o_colored_level pt16 pb24" data-snippet="s_picture">
+        <div class="o_container_small">
+            <div class="row">
+                <div class="col-lg-12 o_colored_level pt16" style="text-align: center;">
+                    <figure class="figure">
+                        <img src="/html_editor/image_shape/website.s_picture_default_image/html_builder/special/special_filter.svg" class="figure-img img-fluid rounded" alt="" data-file-name="01.svg" data-shape="html_builder/special/special_filter" data-shape-colors=";#046380;;;" loading="lazy"/>
+                        <figcaption class="figure-caption text-muted mt-2">Donde la innovación y el rendimiento se unen</figcaption>
+                    </figure>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>
+    </t>
+</t>

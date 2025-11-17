@@ -1,0 +1,344 @@
+CODIGO del Proyecto de Semillero de Opción de Grado llamado 3D Organ-Inc Versión 2, Formato HTML y .text del Oído de la PLATAFORMA WEB:
+
+
+
+<t t-name="website.oido">
+    <t t-call="website.layout">
+        <div id="wrap" class="oe_structure oe_empty"><div class="oe_structure">
+                    <section class="s_title parallax s_parallax_is_fixed bg-black-50 o_colored_level pb16 pt16" data-vcss="001" data-snippet="s_title" data-scroll-background-ratio="1">
+                        <span class="s_parallax_bg oe_img_bg o_bg_img_center o_bg_img_origin_border_box" style="background-image: url('/web/image/website.s_parallax_default_image'); background-position: 50% 0;"/>
+                        <div class="o_we_bg_filter bg-black-50"/>
+                        <div class="container">
+                            <h1 style="text-align: center;"><span class="display-4-fs"><strong>Del Oido Humano al Modelo 3D</strong></span></h1>
+                        </div>
+                    </section>
+                </div>
+                <div class="oe_structure"><section class="s_text_image o_colored_level pb8 pt8" data-snippet="s_text_image">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-5 pt16 pb16 o_colored_level">
+        <p style="font-size: 12px;"><br/></p>
+                    <h2><strong>🦻 El oído humano: una obra maestra biológica</strong></h2><p><br/></p>
+                    <p>El <strong>oído humano</strong> es el órgano encargado de captar, transmitir y procesar los sonidos que nos rodean.</p><p>
+Su funcionamiento combina procesos <strong>mecánicos, eléctricos y neurológicos</strong> que transforman las vibraciones del aire en impulsos que el cerebro puede interpretar como sonidos.</p>
+                    <p><br/></p>
+    <p><a href="#" class="o_translate_inline btn btn-secondary">Más detalles sobre el Funcionamiento de un Oido</a></p>
+                </div>
+                <div class="col-lg-6 offset-lg-1 pt16 o_colored_level pb24">
+                    <img src="/web/image/557-4eec896a/El%20Oido%20Esquema%20Inicial.webp" alt="" data-attachment-id="556" class="img img-fluid mx-auto rounded o_we_custom_image" data-shape-colors=";;;;" data-format-mimetype="image/webp" data-original-id="556" data-original-src="/web/image/556-708a41af/El%20Oido%20Esquema%20Inicial.png" data-mimetype-before-conversion="image/png" data-resize-width="690" data-mimetype="image/webp" loading="lazy"/>
+                </div>
+            </div>
+        </div>
+    </section><section class="s_text_image o_colored_level pb0 pt0" data-snippet="s_image_text">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-6 pt16 pb16 o_colored_level">
+                    <img src="/web/image/558-2d6a5965/Estructura%20interna%20del%20Oido.webp" alt="" data-attachment-id="555" class="img img-fluid mx-auto rounded img-thumbnail o_we_custom_image" style="padding: 15px;" data-format-mimetype="image/webp" data-original-id="555" data-original-src="/web/image/555-f39b7dbe/Estructura%20interna%20del%20Oido.png" data-mimetype-before-conversion="image/png" data-resize-width="690" data-mimetype="image/webp" loading="lazy"/>
+                </div>
+                <div class="col-lg-5 offset-lg-1 o_colored_level pt0 pb0">
+                    <h3>🎧 <strong>Estructura general</strong></h3><p>El oído se divide en <strong>tres partes principales</strong>, cada una con un papel clave:</p><ol>
+<li><p><strong>Oído externo</strong></p><ul>
+<li><p>Formado por el pabellón auricular y el conducto auditivo.</p></li>
+<li><p>Su función es <strong>captar las ondas sonoras</strong> y dirigirlas hacia el interior.</p></li>
+</ul></li>
+<li><p><strong>Oído medio</strong></p><ul>
+<li><p>Contiene tres huesecillos diminutos: <strong>martillo, yunque y estribo</strong>.</p></li>
+<li><p>Estos huesecillos <strong>amplifican y transmiten</strong> las vibraciones hacia el oído interno.</p></li>
+</ul></li>
+<li><p><strong>Oído interno (cóclea)</strong></p><ul>
+<li><p>Aquí las vibraciones se convierten en señales eléctricas.</p></li>
+<li><p>En la <strong>cóclea</strong>, las células ciliadas transforman las ondas en impulsos nerviosos que viajan por el <strong>nervio auditivo</strong> hasta el cerebro.</p></li></ul></li></ol>
+                    <p><a href="#" class="btn btn-secondary o_translate_inline">Más detalles sobre nuestros proyectos</a></p>
+                </div>
+            </div>
+        </div>
+    </section><section class="s_text_image o_colored_level pt0 pb0" data-snippet="s_text_image">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-5 o_colored_level pt0 pb0">
+        <p style="font-size: 12px;"><br/></p>
+                    <h3>🔊 <strong>Proceso de recepción del sonido</strong></h3><p><br/></p><ol>
+<li><p><strong>Captación:</strong> las ondas sonoras viajan por el aire y son recogidas por el pabellón auricular.</p></li>
+<li><p><strong>Transmisión:</strong> las vibraciones pasan por el conducto auditivo hasta el tímpano.</p></li>
+<li><p><strong>Amplificación:</strong> el tímpano vibra y mueve los huesecillos del oído medio, amplificando el sonido.</p></li>
+<li><p><strong>Conversión:</strong> las vibraciones llegan a la cóclea, donde se transforman en señales eléctricas.</p></li>
+<li><p><strong>Interpretación:</strong> el cerebro recibe esas señales a través del nervio auditivo y las interpreta como sonidos.</p></li></ol>
+    <p><a href="#" class="o_translate_inline btn btn-secondary">Más detalles sobre el Funcionamiento de un Oido</a></p>
+                </div>
+                <div class="col-lg-6 offset-lg-1 pt16 pb24 o_colored_level">
+                    <img src="/web/image/479-47d17d91/3d%2520Organ%2520Inc%2520Oido%25200.svg" alt="" data-attachment-id="478" class="img img-fluid mx-auto rounded o_we_custom_image" data-shape-colors=";;;;" data-format-mimetype="image/webp" data-original-id="478" data-original-src="/web/image/478-8f34c461/3d%20Organ%20Inc%20Oido%200.png" data-mimetype-before-conversion="image/png" data-resize-width="690" data-mimetype="image/webp" data-file-name="3d%20Organ%20Inc%20Oido%200.svg" loading="lazy"/>
+                </div>
+            </div>
+        </div>
+    </section><section class="s_company_team o_colored_level pt32 pb24" data-snippet="s_company_team">
+        <div class="container">
+            <h2 class="h3-fs">Conoce a nuestro equipo de expertos</h2>
+            <p class="lead">Expertos en bioingeniería que impulsan nuestro crecimiento</p>
+            <div class="row">
+                <div class="col-lg-6 pt32 pb32 o_colored_level" data-name="Team Member">
+                    <div class="row s_col_no_resize s_col_no_bgcolor">
+                        <div class="col-lg-3 pb24 o_not_editable">
+                            <img alt="" src="/web/image/website.s_company_team_image_1" class="img-fluid rounded-circle o_editable_media w-lg-100 mx-lg-auto" loading="lazy"/>
+                        </div>
+                        <div class="col-lg-9">
+                            <h3 class="h5-fs">Tony Fred</h3>
+                            <p class="text-muted mb-3">Director de innovación</p>
+                            <p>
+                                Tony es el fundador y director, y se dedica a liderar la investigación y desarrollo de modelos de bioimpresión 3D. Su pasión por la biotecnología lo impulsa a innovar constantemente en este campo.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6 pt32 pb32 o_colored_level" data-name="Team Member">
+                    <div class="row s_col_no_resize s_col_no_bgcolor">
+                        <div class="col-lg-3 pb24 o_not_editable">
+                            <img alt="" src="/web/image/website.s_company_team_image_2" class="img-fluid rounded-circle o_editable_media w-lg-100 mx-lg-auto" loading="lazy"/>
+                        </div>
+                        <div class="col-lg-9">
+                            <h3 class="h5-fs">Mich Stark</h3>
+                            <p class="text-muted mb-3">Director comercial</p>
+                            <p>Mich cuenta con varios años de experiencia como director comercial en el sector biotecnológico. Su enfoque en la innovación ha sido clave para el crecimiento de la empresa. Es un líder visionario.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6 pt32 pb32 o_colored_level" data-name="Team Member">
+                    <div class="row s_col_no_resize s_col_no_bgcolor">
+                        <div class="col-lg-3 pb24 o_not_editable">
+                            <img alt="" src="/web/image/website.s_company_team_image_3" class="img-fluid rounded-circle o_editable_media w-lg-100 mx-lg-auto" loading="lazy"/>
+                        </div>
+                        <div class="col-lg-9">
+                            <h3 class="h5-fs">Aline Turner</h3>
+                            <p class="text-muted mb-3">Director técnico</p>
+                            <p>Aline es una pionera en el campo de la bioimpresión 3D, apasionada por su trabajo. Ha mentorizado a más de 100 investigadores y lidera una comunidad de miles de profesionales en biotecnología.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6 pt32 pb32 o_colored_level" data-name="Team Member">
+                    <div class="row s_col_no_resize s_col_no_bgcolor">
+                        <div class="col-lg-3 pb24 o_not_editable">
+                            <img alt="" src="/web/image/website.s_company_team_image_4" class="img-fluid rounded-circle o_editable_media w-lg-100 mx-lg-auto" loading="lazy"/>
+                        </div>
+                        <div class="col-lg-9">
+                            <h3 class="h5-fs">Iris Joe</h3>
+                            <p class="text-muted mb-3">Director de operaciones</p>
+                            <p>Con una trayectoria internacional, Iris nos guía en la optimización de nuestros procesos de bioimpresión, ayudando a transformar la industria médica y a mejorar la calidad de vida de las personas a través de la innovación tecnológica.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section><section class="s_title parallax s_parallax_is_fixed bg-black-50 o_colored_level pt16 pb16" data-vcss="001" data-snippet="s_title" data-scroll-background-ratio="1">
+                        <span class="s_parallax_bg oe_img_bg o_bg_img_center o_bg_img_origin_border_box" style="background-image: url('/web/image/website.s_parallax_default_image'); background-position: 50% 0;"/>
+                        <div class="o_we_bg_filter bg-black-50"/>
+                        <div class="container">
+                            <h1 style="text-align: center;"><span class="display-4-fs"><strong>Galeria de los Modelos 3D del Oido</strong></span></h1>
+                        </div>
+                    </section><section class="s_embed_code pt16 pb16 o_colored_level text-center" data-snippet="s_embed_code" data-name="Insertar código">
+        <template class="s_embed_code_saved"><script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"/>
+
+<style>
+  .model-card {
+    display: inline-block;
+    margin: 20px;
+    text-align: center;
+    background: #f9f9f9;
+    border-radius: 15px;
+    padding: 15px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+    transition: transform 0.3s;
+    width: 370px;
+  }
+  .model-card:hover {
+    transform: scale(1.02);
+  }
+  .model-viewer {
+    width: 350px;
+    height: 350px;
+    border-radius: 12px;
+    background-color: #fff;
+  }
+  .model-title {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    color: #222;
+    margin-top: 10px;
+  }
+  .model-desc {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    color: #555;
+    margin-bottom: 15px;
+  }
+  .view-more-btn {
+    background-color: #0056b3;
+    color: #fff;
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    text-decoration: none;
+    display: inline-block;
+  }
+  .view-more-btn:hover {
+    background-color: #0074e0;
+  }
+</style>
+
+<div id="multi-viewer" style="text-align:center;">
+  
+  
+  
+  
+  
+  <div class="model-card">
+    <model-viewer class="model-viewer" src="https://3d-organ-inc-web.odoo.com/web/content/506?unique=1aae4ce1bd428c1987395b3cb6a6fc7c89a96f34&amp;download=true" alt="Modelo en 3D del Oído Humano" camera-controls="" auto-rotate="" rotation-per-second="30deg" shadow-intensity="1" exposure="1.2" interaction-prompt="auto">
+    </model-viewer>
+    <div class="model-title">Oído Humano</div>
+    <div class="model-desc">Explora su estructura externa, media e interna en detalle.</div>
+    <a href="https://3d-organ-inc-web.odoo.com/modelo-3d-oido-humano" class="view-more-btn">Ver más sobre el Modelo</a>
+  </div>
+
+ 
+ 
+ 
+ 
+   <div class="model-card">
+    <model-viewer class="model-viewer" src="https://3d-organ-inc-web.odoo.com/web/content/526?unique=7e5dadfe9647d25f2c0abf01f0c1adc038ca0e04&amp;download=true" alt="Modelo en 3D de la Impresora 3D" camera-controls="" auto-rotate="" rotation-per-second="25deg" shadow-intensity="1" exposure="1.2" interaction-prompt="auto">
+    </model-viewer>
+    <div class="model-title">Impresora 3D (Bioprinter)</div>
+    <div class="model-desc">Visualiza la representación del equipo que deposita biotinta capa a capa para construir tejidos tridimensionales.</div>
+    <a href="https://3d-organ-inc-web.odoo.com/modelo-3d-impresora-3d" class="view-more-btn">Ver más sobre el Modelo</a>
+  </div>
+
+
+
+
+
+  <div class="model-card">
+    <model-viewer class="model-viewer" src="https://3d-organ-inc-web.odoo.com/web/content/528?unique=b5fc4e85d7b1fda6fe5949dbf5166ef8b304ea6b&amp;download=true" alt="Modelo en 3D del Oido BioImpreso" camera-controls="" auto-rotate="" rotation-per-second="20deg" shadow-intensity="1" exposure="1.2" interaction-prompt="auto">
+    </model-viewer>
+    <div class="model-title">Oido BioImpreso</div>
+    <div class="model-desc">Ejemplo de la versión simulada del oído tras el proceso de bioimpresión.</div>
+    <a href="https://3d-organ-inc-web.odoo.com/modelo-3d-oido-bioimpreso" class="view-more-btn">Ver más sobre el Modelo</a>
+  </div>
+  
+  
+  
+  
+  
+  <div class="model-card">
+    <model-viewer class="model-viewer" src="https://3d-organ-inc-web.odoo.com/web/content/529?unique=c87a7979e62a4d4c40938614d0f8cab12d258751&amp;download=true" alt="Modelo en 3D de la BioTinta" camera-controls="" auto-rotate="" rotation-per-second="20deg" shadow-intensity="1" exposure="1.2" interaction-prompt="auto">
+    </model-viewer>
+    <div class="model-title">La BioTinta (Bioink)</div>
+    <div class="model-desc">Observa el modelo de la composición y microestructura de la biotinta.</div>
+    <a href="https://3d-organ-inc-web.odoo.com/modelo-3d-biotinta" class="view-more-btn">Ver más sobre el Modelo</a>
+  </div>
+</div></template>
+        <div class="s_embed_code_embedded container o_not_editable"><script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"/><style>
+  .model-card {
+    display: inline-block;
+    margin: 20px;
+    text-align: center;
+    background: #f9f9f9;
+    border-radius: 15px;
+    padding: 15px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+    transition: transform 0.3s;
+    width: 370px;
+  }
+  .model-card:hover {
+    transform: scale(1.02);
+  }
+  .model-viewer {
+    width: 350px;
+    height: 350px;
+    border-radius: 12px;
+    background-color: #fff;
+  }
+  .model-title {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    color: #222;
+    margin-top: 10px;
+  }
+  .model-desc {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    color: #555;
+    margin-bottom: 15px;
+  }
+  .view-more-btn {
+    background-color: #0056b3;
+    color: #fff;
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    text-decoration: none;
+    display: inline-block;
+  }
+  .view-more-btn:hover {
+    background-color: #0074e0;
+  }
+</style><div id="multi-viewer" style="text-align:center;">
+  
+  
+  
+  
+  
+  <div class="model-card">
+    <model-viewer class="model-viewer" src="https://3d-organ-inc-web.odoo.com/web/content/506?unique=1aae4ce1bd428c1987395b3cb6a6fc7c89a96f34&amp;download=true" alt="Modelo en 3D del Oído Humano" camera-controls="" auto-rotate="" rotation-per-second="30deg" shadow-intensity="1" exposure="1.2" interaction-prompt="auto">
+    </model-viewer>
+    <div class="model-title">Oído Humano</div>
+    <div class="model-desc">Explora su estructura externa, media e interna en detalle.</div>
+    <a href="https://3d-organ-inc-web.odoo.com/modelo-3d-oido-humano" class="view-more-btn">Ver más sobre el Modelo</a>
+  </div>
+
+ 
+ 
+ 
+ 
+   <div class="model-card">
+    <model-viewer class="model-viewer" src="https://3d-organ-inc-web.odoo.com/web/content/526?unique=7e5dadfe9647d25f2c0abf01f0c1adc038ca0e04&amp;download=true" alt="Modelo en 3D de la Impresora 3D" camera-controls="" auto-rotate="" rotation-per-second="25deg" shadow-intensity="1" exposure="1.2" interaction-prompt="auto">
+    </model-viewer>
+    <div class="model-title">Impresora 3D (Bioprinter)</div>
+    <div class="model-desc">Visualiza la representación del equipo que deposita biotinta capa a capa para construir tejidos tridimensionales.</div>
+    <a href="https://3d-organ-inc-web.odoo.com/modelo-3d-impresora-3d" class="view-more-btn">Ver más sobre el Modelo</a>
+  </div>
+
+
+
+
+
+  <div class="model-card">
+    <model-viewer class="model-viewer" src="https://3d-organ-inc-web.odoo.com/web/content/528?unique=b5fc4e85d7b1fda6fe5949dbf5166ef8b304ea6b&amp;download=true" alt="Modelo en 3D del Oido BioImpreso" camera-controls="" auto-rotate="" rotation-per-second="20deg" shadow-intensity="1" exposure="1.2" interaction-prompt="auto">
+    </model-viewer>
+    <div class="model-title">Oido BioImpreso</div>
+    <div class="model-desc">Ejemplo de la versión simulada del oído tras el proceso de bioimpresión.</div>
+    <a href="https://3d-organ-inc-web.odoo.com/modelo-3d-oido-bioimpreso" class="view-more-btn">Ver más sobre el Modelo</a>
+  </div>
+  
+  
+  
+  
+  
+  <div class="model-card">
+    <model-viewer class="model-viewer" src="https://3d-organ-inc-web.odoo.com/web/content/529?unique=c87a7979e62a4d4c40938614d0f8cab12d258751&amp;download=true" alt="Modelo en 3D de la BioTinta" camera-controls="" auto-rotate="" rotation-per-second="20deg" shadow-intensity="1" exposure="1.2" interaction-prompt="auto">
+    </model-viewer>
+    <div class="model-title">La BioTinta (Bioink)</div>
+    <div class="model-desc">Observa el modelo de la composición y microestructura de la biotinta.</div>
+    <a href="https://3d-organ-inc-web.odoo.com/modelo-3d-biotinta" class="view-more-btn">Ver más sobre el Modelo</a>
+  </div>
+</div></div>
+    </section></div>
+            </div>
+    </t>
+</t>

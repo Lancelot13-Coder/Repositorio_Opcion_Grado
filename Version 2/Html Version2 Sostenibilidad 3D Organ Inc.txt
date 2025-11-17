@@ -1,0 +1,44 @@
+CODIGO del Proyecto de Semillero de Opción de Grado llamado 3D Organ-Inc Versión 2, Formato HTML y .text de la Sostenibilidad de la PLATAFORMA WEB:
+
+
+
+
+<t t-name="website.sostenibilidad">
+    <t t-call="website.layout">
+        <div id="wrap" class="oe_structure oe_empty"><section class="s_banner o_cc o_cc3 o_colored_level o_full_screen_height pb56 pt24" data-snippet="s_banner">
+        <div class="container">
+            <div class="row o_grid_mode" data-row-count="10">
+                <div class="o_grid_item g-height-10 g-col-lg-5 col-lg-5 o_colored_level" data-name="Box" style="z-index: 1; grid-area: 1 / 1 / 11 / 6;">
+                    <h1 style="text-align: center;"><strong>Esta pagina esta Fuera de Servicio por Mantenimiento</strong></h1><p><br/></p>
+    <p>
+                        <a class="o_translate_inline btn btn-primary" href="/"><span class="h5-fs"><strong>Explora mas de Nuestros Contenidos</strong></span><span class="fa fa-angle-right ms-2"/></a>
+                    </p>
+                </div>
+                
+                
+                
+            <div class="o_grid_item o_grid_item_image g-height-10 d-lg-block d-none o_snippet_mobile_invisible o_colored_level g-col-lg-5 col-lg-5" style="z-index: 2; grid-area: 1 / 6 / 11 / 11;" data-invisible="1">
+                    <img src="/web/image/546-02c8e51f/oreja1%20en%20la%20realidad.webp" alt="" data-attachment-id="545" class="img img-fluid mx-auto rounded o_we_custom_image" data-format-mimetype="image/webp" data-original-id="545" data-original-src="/web/image/545-aa444836/oreja1%20en%20la%20realidad.jpg" data-mimetype-before-conversion="image/jpeg" data-resize-width="690" data-mimetype="image/webp"/>
+                </div><div class="o_grid_item g-col-lg-5 g-height-4 col-lg-5 o_colored_level" style="z-index: 4; grid-area: 7 / 2 / 11 / 7;">
+                    <blockquote class="s_blockquote s_blockquote_with_line o_cc o_cc1 o_animable position-relative d-flex flex-column gap-4 w-100 mx-auto p-4 fst-normal shadow o_colored_level" data-vcss="001" data-snippet="s_blockquote" data-name="Blockquote">
+                        <div class="s_blockquote_line_elt position-absolute top-0 start-0 bottom-0 bg-o-color-1"/>
+                        <div class="s_blockquote_wrap_icon position-absolute top-0 start-50 translate-middle w-100">
+                            <i class="s_blockquote_icon fa fa-quote-right d-block mx-auto rounded bg-o-color-1" role="img"/>
+                        </div>
+                        <p class="s_blockquote_quote my-auto"><span class="h5-fs"><strong>"Si las cosas son declaradas, se cumplen".</strong></span></p>
+                        <div class="s_blockquote_infos d-flex gap-2 flex-row align-items-start justify-content-start w-100 text-start">
+                            <img src="/web/image/website.s_blockquote_default_image" class="s_blockquote_avatar img rounded-circle" alt="" loading="lazy"/>
+                            <div class="s_blockquote_author">
+                                <span class="o_small">
+                                    <strong>Julian Cardenaz</strong><br/>
+                                    <span>Director General de 3d Organ Inc</span></span></div>
+                        </div>
+                    </blockquote>
+                </div><div class="o_grid_item o_grid_item_image g-col-lg-2 g-height-5 col-lg-2 d-lg-block d-none o_snippet_mobile_invisible o_colored_level" style="z-index: 3; grid-area: 3 / 11 / 8 / 13;" data-invisible="1">
+                    <img src="/web/image/547-923c90f8/Bioimpresion-en-3D-de-Organos.webp" alt="" data-attachment-id="544" class="img img-fluid mx-auto rounded o_we_custom_image" data-format-mimetype="image/webp" data-original-id="544" data-original-src="/web/image/544-2d6f9c3d/Bioimpresion-en-3D-de-Organos.jpg" data-mimetype-before-conversion="image/jpeg" data-resize-width="690" data-mimetype="image/webp"/>
+                </div></div>
+        </div>
+    </section>
+</div>
+    </t>
+</t>

@@ -1,0 +1,102 @@
+CODIGO del Proyecto de Semillero de Opción de Grado llamado 3D Organ-Inc Versión 2, Formato HTML y .text del Sobre Nosotros de la PLATAFORMA WEB:
+
+
+
+<t name="About Us" t-name="website.sobre-nosotros">
+        <t t-call="website.layout">
+            <div id="wrap" class="">
+                <div class="oe_structure">
+                    <section class="s_title parallax s_parallax_is_fixed bg-black-50 o_colored_level pt16 pb16" data-vcss="001" data-snippet="s_title" data-scroll-background-ratio="1">
+                        <span class="s_parallax_bg oe_img_bg o_bg_img_center o_bg_img_origin_border_box" style="background-image: url('/web/image/website.s_parallax_default_image'); background-position: 50% 0;"/>
+                        <div class="o_we_bg_filter bg-black-50"/>
+                        <div class="container">
+                            <h1><span class="display-4-fs"><strong>Sobre Nosotros</strong></span></h1>
+                        </div>
+                    </section>
+                </div>
+                <div class="oe_structure"><section class="s_text_image o_colored_level pb24 pt32" data-snippet="s_text_image">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="o_colored_level pb0 pt4 col-lg-5">
+        <p style="font-size: 12px;"><span class="h5-fs"><b>Acerca de Nosotros&amp;nbsp;</b></span></p>
+                    <h2 class="h3-fs">
+        <span class="h2-fs"><strong>💡 ¿Quiénes somos?</strong></span></h2>
+                    <p style="text-align: justify;"><span class="h5-fs">Somos un Equipo de Desarrolladores y Estudiantes apasionados por la innovación Educativa y la Tecnología Biomédica.</span></p><p style="text-align: justify;">
+<span class="h5-fs"><strong>3D Organ Inc</strong> nace como una Plataforma Digital Educativa enfocada en <strong>enseñar de forma Visual e Interactiva</strong> el proceso de Impresion de Organos mediante la Bioimpresión 3D aplicado en el ambito de la Medicina Regenerativa.</span></p><p style="text-align: justify;"><span class="h5-fs">Nuestro Propósito es <strong>acercar y facilitar tanto como el Conocimiento Científico y Aprendizaje al público general</strong>, mostrando cómo la tecnología de Bioimpresión &amp;nbsp;3D y el Modelado 3D pueden Transformar el Futuro de la Salud de esta manera.</span></p>
+    
+                </div>
+                <div class="col-lg-6 offset-lg-1 pt16 pb16 o_colored_level">
+                    <img src="/web/image/562-fd2d9686/quienes%20somos%20Sobre%20Nosotros%203d%20Organ%20Inc.png" alt="" data-attachment-id="561" class="img img-fluid mx-auto rounded o_we_custom_image" data-shape="html_builder/geometric_round/geo_round_blob_medium" data-shape-colors=";;;;" data-format-mimetype="image/webp" data-original-id="561" data-original-src="/web/image/561-7201d809/quienes%20somos%20Sobre%20Nosotros%203d%20Organ%20Inc.png" data-mimetype-before-conversion="image/png" data-resize-width="690" data-mimetype="image/svg+xml" loading="lazy"/>
+                </div>
+            </div>
+        </div>
+    </section><section class="s_text_image o_colored_level pb32 pt24" data-snippet="s_image_text">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-6 pt16 pb16 o_colored_level">
+                    <img src="/web/image/564-9045cbb6/Nuestra%20Mision%20Sobre%20Nosotros%203d%20Organ%20Inc.webp" alt="" data-attachment-id="563" class="img img-fluid mx-auto rounded img-thumbnail o_we_custom_image" style="padding: 15px;" data-format-mimetype="image/webp" data-original-id="563" data-original-src="/web/image/563-be366c9b/Nuestra%20Mision%20Sobre%20Nosotros%203d%20Organ%20Inc.png" data-mimetype-before-conversion="image/png" data-resize-width="690" data-mimetype="image/webp" loading="lazy"/>
+                </div>
+                <div class="col-lg-5 offset-lg-1 pt16 pb16 o_colored_level">
+                    <h3><span class="h1-fs"><strong>🎯 Nuestra Misión</strong></span></h3><h2 class="h3-fs"><br/></h2>
+                    <blockquote><p style="text-align: justify;"><span class="h4-fs"><strong>Facilitar el Aprendizaje sobre Bioimpresión 3D mediante una Plataforma Educativa Accesible, Dinámica y Visual, que combine&amp;nbsp;Ciencia, Tecnología y Pedagogía Digital para Promover la Comprensión de los Procesos Médicos Avanzados en el Campo de la Medicina Regenerativa.</strong></span></p></blockquote>
+                    
+                </div>
+            </div>
+        </div>
+    </section><section class="s_text_image pt24 o_colored_level pb24" data-snippet="s_image_text">
+        <div class="container">
+            <div class="row o_grid_mode" data-row-count="11">
+                
+                
+            <div class="o_colored_level o_grid_item g-col-lg-5 g-height-11 col-lg-5" style="z-index: 2; grid-area: 1 / 1 / 12 / 6;">
+                    <h3><span class="h1-fs"><strong>👁️ Nuestra Visión</strong></span></h3><h2 class="h3-fs"><br/></h2><blockquote>
+<p style="text-align: justify;"><span class="h4-fs"><strong>Ser una Plataforma Pionera en Educación Interactiva sobre Bioimpresión 3D en Latinoamérica, reconocida por su Capacidad de Integrar Simulaciones 3D hechas en Blender, animaciones y demas&amp;nbsp;Contenido Didáctico para inspirar a Nuevas Generaciones de profesionales y Curiosos del Area Biomédica.</strong></span></p></blockquote>
+                    
+                    
+                </div><div class="o_colored_level o_grid_item g-col-lg-6 g-height-8 col-lg-6 o_grid_item_image" style="z-index: 1; grid-area: 2 / 7 / 10 / 13;"><img src="/web/image/566-f26c5437/Nuestra%20Vision%20Sobre%20Nosotros%203d%20Organ%20Inc.webp" alt="" data-attachment-id="565" class="img img-fluid mx-auto rounded img-thumbnail o_we_custom_image" style="padding: 15px;" data-format-mimetype="image/webp" data-original-id="565" data-original-src="/web/image/565-25debcfa/Nuestra%20Vision%20Sobre%20Nosotros%203d%20Organ%20Inc.png" data-mimetype-before-conversion="image/png" data-resize-width="690" data-mimetype="image/webp"/></div></div>
+        </div>
+    </section><section class="s_image_text_overlap o_colored_level pb24 pt32" data-snippet="s_image_text_overlap" data-name="Imagen - Superposición de texto">
+        <div class="container">
+            <div class="row o_grid_mode" data-row-count="10">
+                <div class="o_grid_item o_grid_item_image order-lg-0 g-col-lg-7 o_colored_level g-height-10 col-lg-7" style="grid-area: 1 / 1 / 11 / 8; --grid-item-padding-y: 0; z-index: 1; order: 2;">
+                    <img src="/web/image/560-3f6be782/logo%20Uninpahu.jpg" alt="" data-attachment-id="559" class="img img-fluid mx-auto o_we_custom_image rounded" data-format-mimetype="image/webp" data-original-id="559" data-original-src="/web/image/559-3f6be782/logo%20Uninpahu.jpg" data-mimetype-before-conversion="image/jpeg" data-resize-width="225" data-mimetype="image/webp" data-quality="100" loading="lazy"/>
+                </div>
+                <div class="o_grid_item order-lg-0 g-col-lg-6 o_cc o_cc5 rounded o_colored_level g-height-8 col-lg-6" style="grid-area: 2 / 7 / 10 / 13; --grid-item-padding-y: 56px; --grid-item-padding-x: 40px; z-index: 2; order: 1;">
+                    <h2 class="h3-fs"><span class="h2-fs"><strong>🧑‍💻 Nuestro Equipo</strong></span></h2>
+                    <p style="text-align: justify;"><span class="h6-fs"><strong>Este proyecto está Liderado por:</strong></span></p><ul>
+<li class="h6-fs"><p style="text-align: justify;"><strong>Joshua Ahmed Abril Rojas:</strong></p><p style="text-align: justify;">
+<em><strong>Investigador, Desarrollador Web, Diseñador de Interfaz en Odoo y Modelador 3D en Blender.</strong></em></p></li>
+<li class="h6-fs"><p style="text-align: justify;"><strong>Julián Felipe Cárdenas Zipasuca:</strong></p><p style="text-align: justify;">
+<em><strong><em>Investigador, Desarrollador Web, Diseñador de Interfaz en Odoo y Modelador 3D en Blender.</em></strong></em><br/></p></li>
+</ul><p style="text-align: justify;"><span class="h6-fs"><strong>Ambos estamos comprometidos con este&amp;nbsp;Desarrollo que es una Solucion&amp;nbsp;Tecnologica que tiene como Proposito Mejorar la Enseñanza y el Acceso al conocimiento biomédico para cualquier Interesado.</strong></span></p>
+                    
+                </div>
+            </div>
+        </div>
+    </section><section class="s_image_text_box o_colored_level pb80 pt16" data-oe-shape-data="{'shape': 'html_builder/Connections/08'}" data-snippet="s_image_text_box" data-name="Imagen - Cuadro de texto">
+        <div class="o_we_shape o_html_builder_Connections_08"/>
+        <div class="container">
+            <div class="row o_grid_mode" data-row-count="11" style="column-gap: 24px;">
+                <div class="o_grid_item o_grid_item_image g-col-lg-6 g-height-10 col-lg-6 o_colored_level" style="grid-area: 1 / 1 / 11 / 7; z-index: 1; --grid-item-padding-y: 0px; --grid-item-padding-x: 0px; order:2;">
+                    <img src="/web/image/website.s_text_cover_default_image" class="img img-fluid rounded order-lg-0" alt="" loading="lazy" data-mimetype="image/webp"/>
+                </div>
+                <div class="o_grid_item o_cc o_cc2 g-col-lg-6 rounded order-lg-0 o_colored_level g-height-11 col-lg-6" style="grid-area: 1 / 7 / 12 / 13; z-index: 2; --grid-item-padding-y: 140px; --grid-item-padding-x: 48px; order: 1;">
+                    <h2 class="h3-fs"><strong>🌍 Nuestro Compromiso y Proyección</strong></h2>
+                    <p><span class="h6-fs">En 3D Organ Inc creemos que la Educación deberia ser <strong>Abierta, Visual y Accesible </strong>para todo el Publico Interesado.</span></p><p><span class="h6-fs">
+Buscamos inspirar la <span class="oe-tabs" style="width: 3.1px;">	</span>Curiosidad Científica y Fomentar el Aprendizaje Autodidacta a través de Herramientas Digitales que Conecten la Tecnología con la Medicina del Futuro. Este Proyecto nació en el Marco Académico de la <strong>Fundación Universitaria Uninpahu</strong>, pero está Diseñado para Evolucionar Progresivamente.</span></p><p>
+A futuro, Planeamos integrar nuevos órganos en la Galería, Desarrollar mas Módulos Interactivos de Aprendizaje y lograr Establecer Alianzas con Instituciones Educativas y de Investigación en el Ambito de la Medicina Regenerativa y la Bioimpresion 3D.</p>
+                    
+                </div>
+            </div>
+        </div>
+    </section><section class="s_title o_half_screen_height parallax s_parallax_is_fixed o_cc o_cc5 o_colored_level pt32 pb48" data-vcss="001" data-scroll-background-ratio="1" data-snippet="s_title">
+        <span class="s_parallax_bg oe_img_bg o_bg_img_center o_bg_img_origin_border_box" style="background-image: url('/web/image/website.s_parallax_default_image'); background-position: 50% 75%;"/>
+        <div class="o_we_bg_filter bg-black-50"/>
+        <div class="container s_allow_columns">
+            <h2 class="display-3-fs" style="text-align: center;"><strong>" Transformar la Medicina no sera&amp;nbsp;un Sueño Mas.</strong><br/><strong> Lo Estamos haciendo Realidad. "</strong></h2>
+        </div>
+    </section></div>
+            </div>
+        </t>
+    </t>
+

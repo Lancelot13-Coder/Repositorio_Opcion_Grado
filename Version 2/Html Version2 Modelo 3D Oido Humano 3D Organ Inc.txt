@@ -1,0 +1,140 @@
+CODIGO del Proyecto de Semillero de Opción de Grado llamado 3D Organ-Inc Versión 2, Formato HTML y .text del Modelo 3D Oído Humano de la PLATAFORMA WEB:
+
+
+
+
+<t t-name="website.modelo-3d-oido-humano">
+    <t t-call="website.layout">
+        <div id="wrap" class="oe_structure oe_empty">
+    <section class="s_text_block o_colored_level pb0 pt8" data-snippet="s_text_block">
+        <div class="s_allow_columns container"><p style="text-align: center;"><span class="display-4-fs"><strong>Oido Humano: Anatomía y Función</strong></span><br/></p><p style="text-align: justify;"><span class="h5-fs">El oído humano captura las ondas sonoras y las transforma en señales eléctricas que el cerebro interpreta como sonido. Está dividido en tres secciones: oído externo (captación), oído medio (transmisión y amplificación mediante los huesecillos) y oído interno o cóclea (conversión mecano-eléctrica por células ciliadas).</span></p><p style="text-align: justify;"><span class="h5-fs">
+En este modelo puedes rotar y acercar las estructuras para ver cómo se relacionan entre sí y cómo el diseño anatómico facilita la audición y el equilibrio.</span></p><p><br/></p><section class="s_embed_code o_colored_level s_custom_snippet pt0 pb0 text-center" data-snippet="s_embed_code" data-name="Insertar código personalizado">
+        <template class="s_embed_code_saved"><script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"/>
+
+<div id="viewer-wrap" style="width:100%; max-width:1200px; margin:0 auto; padding:10px;">
+  <div id="viewer-status" style="padding:12px; color:#444; font-family:Arial, sans-serif;">
+    Probando acceso al modelo 3D...
+  </div>
+  <div id="viewer-container" style="display:none;">
+    <model-viewer id="mv" alt="Modelo 3D del Oído Humano - 3D Organ Inc" shadow-intensity="1" camera-controls="" auto-rotate="" interaction-prompt="auto" style="width:100%; height:650px; border-radius:12px; background-color:#fff;">
+    </model-viewer>
+    <p style="text-align:center; font-family:Arial, sans-serif; color:#666; margin-top:8px;">
+      Usa el ratón o gesto táctil para girar, acercar y alejar el modelo.
+    </p>
+  </div>
+</div>
+
+<script>
+(async function(){
+  
+  const srcUrl = "https://3d-organ-inc-web.odoo.com/web/content/506?unique=1aae4ce1bd428c1987395b3cb6a6fc7c89a96f34&amp;download=true";
+
+  const statusEl = document.getElementById('viewer-status');
+  const cont = document.getElementById('viewer-container');
+  const mv = document.getElementById('mv');
+
+  try {
+    statusEl.textContent = 'Comprobando URL: ' + srcUrl;
+    const resp = await fetch(srcUrl, { method: 'HEAD' }); 
+    if (!resp.ok) {
+      statusEl.innerHTML = '&lt;strong&gt;Error:&lt;/strong&gt; La URL respondió con código ' + resp.status + '.&lt;br&gt;Revisa que la ruta sea accesible públicamente desde el navegador.';
+      return;
+    }
+
+    
+    const ac = resp.headers.get('access-control-allow-origin');
+    if (ac &amp;&amp; ac !== '*' &amp;&amp; !location.origin.includes(new URL(srcUrl, location.href).origin)) {
+      statusEl.innerHTML = '&lt;strong&gt;Advertencia CORS:&lt;/strong&gt; el servidor responde con Access-Control-Allow-Origin = ' + ac + '&lt;br&gt;Esto puede bloquear la carga en model-viewer.';
+    }
+
+    mv.setAttribute('src', srcUrl);
+    cont.style.display = 'block';
+    statusEl.style.display = 'none';
+
+  } catch (err) {
+    statusEl.innerHTML = '&lt;strong&gt;Excepción:&lt;/strong&gt; no se pudo obtener el archivo.&lt;br&gt;Revisa la consola para detalles.&lt;br&gt;&lt;pre style="white-space:pre-wrap;"&gt;' + err + '&lt;/pre&gt;';
+    console.error(err);
+  }
+})();
+</script></template>
+        <div class="s_embed_code_embedded container o_not_editable"><script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"/><div id="viewer-wrap" style="width:100%; max-width:1200px; margin:0 auto; padding:10px;">
+  <div id="viewer-status" style="padding:12px; color:#444; font-family:Arial, sans-serif;">
+    Probando acceso al modelo 3D...
+  </div>
+  <div id="viewer-container" style="display:none;">
+    <model-viewer id="mv" alt="Modelo 3D del Oído Humano - 3D Organ Inc" shadow-intensity="1" camera-controls="" auto-rotate="" interaction-prompt="auto" style="width:100%; height:650px; border-radius:12px; background-color:#fff;">
+    </model-viewer>
+    <p style="text-align:center; font-family:Arial, sans-serif; color:#666; margin-top:8px;">
+      Usa el ratón o gesto táctil para girar, acercar y alejar el modelo.
+    </p>
+  </div>
+</div><script>
+(async function(){
+  
+  const srcUrl = "https://3d-organ-inc-web.odoo.com/web/content/506?unique=1aae4ce1bd428c1987395b3cb6a6fc7c89a96f34&amp;download=true";
+
+  const statusEl = document.getElementById('viewer-status');
+  const cont = document.getElementById('viewer-container');
+  const mv = document.getElementById('mv');
+
+  try {
+    statusEl.textContent = 'Comprobando URL: ' + srcUrl;
+    const resp = await fetch(srcUrl, { method: 'HEAD' }); 
+    if (!resp.ok) {
+      statusEl.innerHTML = '&lt;strong&gt;Error:&lt;/strong&gt; La URL respondió con código ' + resp.status + '.&lt;br&gt;Revisa que la ruta sea accesible públicamente desde el navegador.';
+      return;
+    }
+
+    
+    const ac = resp.headers.get('access-control-allow-origin');
+    if (ac &amp;&amp; ac !== '*' &amp;&amp; !location.origin.includes(new URL(srcUrl, location.href).origin)) {
+      statusEl.innerHTML = '&lt;strong&gt;Advertencia CORS:&lt;/strong&gt; el servidor responde con Access-Control-Allow-Origin = ' + ac + '&lt;br&gt;Esto puede bloquear la carga en model-viewer.';
+    }
+
+    mv.setAttribute('src', srcUrl);
+    cont.style.display = 'block';
+    statusEl.style.display = 'none';
+
+  } catch (err) {
+    statusEl.innerHTML = '&lt;strong&gt;Excepción:&lt;/strong&gt; no se pudo obtener el archivo.&lt;br&gt;Revisa la consola para detalles.&lt;br&gt;&lt;pre style="white-space:pre-wrap;"&gt;' + err + '&lt;/pre&gt;';
+    console.error(err);
+  }
+})();
+</script></div>
+    </section></div>
+    </section><section class="s_text_block o_colored_level pb16 pt16" data-snippet="s_text_block" data-name="Texto">
+        <div class="container s_allow_columns"><p style="text-align: justify;"><span class="h5-fs"><strong>3 Aprendizajes Clave a partir del Material:</strong></span></p><ul>
+<li class="h5-fs"><p style="text-align: justify;">Identificar las partes externas, medias e internas del oído.</p></li>
+<li class="h5-fs"><p style="text-align: justify;">Entender el papel del tímpano y los huesecillos en la amplificación.</p></li>
+<li class="h5-fs"><p style="text-align: justify;">Ver cómo la cóclea transforma vibraciones en señales nerviosas.</p></li>
+</ul><p style="text-align: justify;"><br/></p><p style="text-align: justify;"><span class="h5-fs"><strong>Pregunta de Evaluacion Sobre el Tema:</strong></span></p><p style="text-align: justify;"><span class="h5-fs">
+¿Qué estructura del oído convierte las vibraciones en señales eléctricas?&amp;nbsp;</span></p><p style="text-align: justify;"><br/></p><p style="text-align: justify;"><span class="h5-fs">(a) Tímpano&amp;nbsp;</span></p><p style="text-align: justify;"><span class="h5-fs">(b) Huesecillos</span></p><p style="text-align: justify;"><span class="h5-fs">&amp;nbsp;(c) Cóclea&amp;nbsp;</span></p><p style="text-align: justify;"><br/></p><p style="text-align: justify;"><span class="h5-fs">&amp;nbsp;<strong>Respuesta Correcta: c)</strong></span></p></div>
+    </section><section class="s_striped o_cc o_cc5 o_colored_level pb0 s_custom_snippet pt0" style="position: relative;" data-oe-shape-data="{'shape':'html_builder/Connections/20','colors':{'c5': 'o-color-4'},'flip':[], 'showOnMobile':true}" data-snippet="s_striped" data-name="Sección rayada personalizado">
+        <div class="o_we_shape o_html_builder_Connections_20 o_shape_show_mobile" style="background-image: url(&quot;/html_editor/shape/html_builder/Connections/20.svg?c5=o-color-4&quot;); background-position: 50% 100%;"/>
+        <div class="container">
+            <p class="lead" style="text-align: center;"><br/></p><p class="lead" style="text-align: center;"><span class="h3-fs"><font class="text-o-color-4"><strong>Contenido Auditivo</strong></font></span></p><p class="lead" style="text-align: center;"><span class="h5-fs"><font style="color: rgb(0, 0, 0);"><strong>Aqui el usuario podra interactuar con el audio respecto al modelo que esta visualizando donde se explica a detalle el proceso que este conlleva.</strong></font></span></p>
+            <p><br/></p>
+            <div class="row">
+                <div class="col-lg-8 offset-lg-2 o_colored_level pb0 pt8">
+                    <div data-oe-expression="//www.youtube.com/embed/vUsB9IzPqF0?rel=0&amp;autoplay=0&amp;controls=0&amp;loop=1&amp;playlist=vUsB9IzPqF0" class="mx-auto d-block media_iframe_video" style="width: 25% !important;"/>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    <section class="s_picture o_colored_level pt0 pb24" data-snippet="s_picture" data-name="Título - Imagen">
+        <div class="o_container_small">
+            <p><br/></p>
+            <div class="row">
+                <div class="col-lg-12 pt24 o_colored_level" style="text-align: center;">
+                    <figure class="figure">
+                        <img src="/html_editor/image_shape/website.s_picture_default_image/html_builder/special/special_filter.svg" class="figure-img img-fluid rounded" alt="" data-file-name="01.svg" data-shape="html_builder/special/special_filter" data-shape-colors=";#046380;;;" loading="lazy" data-mimetype="image/webp"/>
+                        <figcaption class="figure-caption text-muted mt-2">Donde la innovación y el rendimiento se unen</figcaption>
+                    </figure>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>
+    </t>
+</t>

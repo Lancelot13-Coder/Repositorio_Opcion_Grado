@@ -1,0 +1,97 @@
+CODIGO del Proyecto de Semillero de Opción de Grado llamado 3D Organ-Inc Versión 2, Formato HTML y .text del Home de la PLATAFORMA WEB:
+
+
+
+
+<t name="Homepage" t-name="website.homepage">
+    <t t-call="website.layout" pageName.f="homepage">
+        <div id="wrap" class="oe_structure"><section class="s_sidegrid o_colored_level pt16 pb16" data-oe-shape-data="{'shape':'html_builder/Wavy/22_001','colors':{'c5':'o-color-2'},'flip':[],'showOnMobile':false,'shapeAnimationSpeed':'0'}" data-snippet="s_sidegrid">
+        <div class="o_we_shape o_html_builder_Wavy_22_001 o_header_extra_shape_mapping" style="background-image: url(&quot;/html_editor/shape/html_builder/Wavy/22_001.svg?c5=o-color-2&quot;);"/>
+        <div class="container">
+            <div class="row o_grid_mode" data-row-count="14">
+                <div class="o_grid_item o_colored_level g-col-lg-5 col-lg-5 g-height-9" style="z-index: 1; grid-area: 1 / 8 / 10 / 13; --grid-item-padding-x: 24px;">
+                    <h1 class="display-4"><span class="h1-fs"><strong><em>Explora el futuro de la medicina con la bioimpresión 3D</em></strong></span></h1>
+                    <p class="lead">
+        <br/> <span class="h5-fs">Aprende cómo la tecnología está transformando la creación de órganos y tejidos a través de experiencias visuales, animaciones interactivas y modelos 3D que puedes explorar desde tu pantalla.</span></p>
+                </div>
+                
+                
+                
+                
+            <div class="o_grid_item o_grid_item_image o_snippet_mobile_invisible g-height-9 d-lg-block d-none o_colored_level g-col-lg-7 col-lg-7" style="z-index: 4; grid-area: 1 / 1 / 10 / 8;" data-invisible="1">
+                    <img src="/web/image/457-d828dec0/3d%20Organ%20Inc%20Home%200.webp" alt="" data-attachment-id="454" class="img img-fluid rounded o_we_custom_image" data-format-mimetype="image/webp" data-original-id="454" data-original-src="/web/image/454-81259ad8/3d%20Organ%20Inc%20Home%200.png" data-mimetype-before-conversion="image/png" data-resize-width="690" data-mimetype="image/webp" loading="lazy"/>
+                </div><div class="o_grid_item o_grid_item_image o_snippet_mobile_invisible d-lg-block d-none o_colored_level g-height-5 col-lg-8 g-col-lg-8" style="z-index: 5; grid-area: 10 / 3 / 15 / 11;" data-invisible="1">
+                    <img src="/web/image/456-3437b73a/3d%20Organ%20Inc%20Home%201.webp" alt="" data-attachment-id="455" class="img img-fluid o_we_custom_image rounded" data-format-mimetype="image/webp" data-original-id="455" data-original-src="/web/image/455-48328966/3d%20Organ%20Inc%20Home%201.png" data-mimetype-before-conversion="image/png" data-resize-width="720" data-mimetype="image/webp" style="width: 50% !important;" loading="lazy"/>
+                </div><div class="o_grid_item g-col-lg-3 g-height-2 o_colored_level col-lg-3" style="z-index: 6; grid-area: 11 / 9 / 13 / 12;"><p><a class="btn btn-primary" href="/oido"><span class="h5-fs"><strong>Explorar el oído en 3D</strong></span></a></p></div></div>
+        </div>
+    </section><section class="s_numbers_list o_cc o_cc3 o_colored_level pt16 pb8" data-snippet="s_numbers_list">
+        <div class="container">
+            <div class="row s_nb_column_fixed">
+                <div class="o_colored_level col-lg-5 pb0">
+                    <h2 class="h3-fs"><strong>¿Qué es 3D Organ Inc? :&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;</strong></h2><h2 class="h3-fs"><strong><em>Una plataforma educativa que transforma el aprendizaje médico</em></strong></h2>
+                    <p>
+        <br/><br/><span class="h5-fs">3D Organ Inc es una herramienta creada para enseñar de manera visual e interactiva el proceso de bioimpresión 3D.</span></p><p><span class="h5-fs">
+A través de animaciones, audios y modelos tridimensionales, mostramos paso a paso cómo se diseñan, imprimen y reemplazan órganos mediante esta tecnología.</span></p><p><span class="h5-fs">
+Nuestro primer módulo está dedicado al <strong>oído humano</strong>, y pronto incorporaremos más órganos en la galería.</span></p>
+                </div><div class="o_colored_level pb0 col-lg-6">
+                    <h2 class="h3-fs"><br/></h2><p><br/></p><img src="/web/image/459-cc96c8dd/3d%20Organ%20Inc%20Home%202.webp" alt="" data-attachment-id="458" class="img img-fluid o_we_custom_image" data-format-mimetype="image/webp" data-original-id="458" data-original-src="/web/image/458-0e4ea7cf/3d%20Organ%20Inc%20Home%202.png" data-mimetype-before-conversion="image/png" data-resize-width="1536" data-mimetype="image/webp" loading="lazy"/><h2 class="h3-fs"><br/></h2><p>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;<a class="btn btn-primary" href="/funcionamiento"><span class="h4-fs"><strong>Descubre cómo funciona</strong></span></a></p>
+                    <p>
+        <br/><br/><br/></p>
+                </div>
+                
+                
+            </div>
+        </div>
+    </section><section class="s_color_blocks_2 o_colored_level" data-snippet="s_color_blocks_2">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-lg-6 o_cc o_cc4 o_colored_level pt80 pb48">
+                    <h2 class="h3-fs"><strong>
+        Un llamado a la innovación en salud
+    </strong></h2>
+                    <p>
+        <br/><span class="h6-fs"> La bioimpresión 3D es una innovadora tecnología que permite crear tejidos y órganos artificiales utilizando células vivas, lo que abre un nuevo horizonte en la medicina regenerativa. Esta técnica no solo promete revolucionar los tratamientos médicos, sino que también busca reducir la dependencia de donaciones de órganos y mejorar la calidad de vida de los pacientes.</span></p><p><br/></p>
+                    <a class="btn btn-primary" href="/sostenibilidad">Más información sobre sostenibilidad</a>
+                </div>
+                <div class="col-lg-6 p-0 o_colored_level">
+            <img src="/web/image/461-5d6c035a/3d%20Organ%20Inc%20Home%203.webp" alt="" data-attachment-id="460" class="img-fluid w-100 h-100 img o_we_custom_image" style="object-fit: cover;" data-format-mimetype="image/webp" data-original-id="460" data-original-src="/web/image/460-11c35851/3d%20Organ%20Inc%20Home%203.png" data-mimetype-before-conversion="image/png" data-resize-width="962" data-mimetype="image/webp" loading="lazy"/>
+        </div>
+    </div>
+        </div>
+    </section><section class="s_freegrid o_cc o_cc1 o_colored_level pb8 pt24" data-snippet="s_freegrid">
+        <div class="container-fluid">
+            <div class="row o_grid_mode" data-row-count="16">
+                <div class="o_grid_item o_grid_item_image g-col-lg-1 g-height-8 col-lg-1 d-lg-block d-none o_snippet_mobile_invisible o_colored_level" style="z-index: 1; grid-area: 2 / 1 / 10 / 2; --grid-item-padding-y: 0px; --grid-item-padding-x: 0px;" data-invisible="1">
+                    <img class="img img-fluid mx-auto rounded" src="/web/image/website.library_image_03" alt="" loading="lazy"/>
+                </div>
+                <div class="o_grid_item o_grid_item_image g-col-lg-3 g-height-5 col-lg-3 d-lg-block d-none o_snippet_mobile_invisible o_colored_level" style="z-index: 2; grid-area: 1 / 2 / 6 / 5; --grid-item-padding-y: 8px; --grid-item-padding-x: 16px;" data-invisible="1">
+                    <img src="/web/image/549-c37f63b3/Oido%20Humano%20Captura%20Blender.webp" alt="" data-attachment-id="542" class="img img-fluid mx-auto rounded o_we_custom_image" data-format-mimetype="image/webp" data-original-id="542" data-original-src="/web/image/542-5fa1a1d4/Oido%20Humano%20Captura%20Blender.jpg" data-mimetype-before-conversion="image/jpeg" data-resize-width="1600" data-mimetype="image/webp" loading="lazy"/>
+                </div>
+                <div class="o_grid_item o_grid_item_image g-col-lg-3 g-height-5 col-lg-3 d-lg-block d-none o_snippet_mobile_invisible o_colored_level" style="z-index: 3; grid-area: 6 / 2 / 11 / 5; --grid-item-padding-y: 8px; --grid-item-padding-x: 16px;" data-invisible="1">
+                    <img src="/web/image/550-12087e25/Impresora%203d%20Captura%20Blender.webp" alt="" data-attachment-id="548" class="img img-fluid mx-auto rounded o_we_custom_image" data-format-mimetype="image/webp" data-original-id="548" data-original-src="/web/image/548-ae63a13d/Impresora%203d%20Captura%20Blender.jpg" data-mimetype-before-conversion="image/jpeg" data-resize-width="1600" data-mimetype="image/webp" data-quality="87" loading="lazy"/>
+                </div>
+                <div class="o_grid_item o_grid_item_image g-col-lg-3 g-height-8 col-lg-3 d-lg-block d-none o_snippet_mobile_invisible o_colored_level" style="z-index: 4; grid-area: 2 / 5 / 10 / 8; --grid-item-padding-y: 0px; --grid-item-padding-x: 0px;" data-invisible="1">
+                    <img src="/web/image/552-b4e1a69c/Oido%20Bioimpreso%20Captura%20Blender.jpg" alt="" data-attachment-id="551" class="img img-fluid mx-auto o_we_custom_image rounded" data-format-mimetype="image/webp" data-original-id="551" data-original-src="/web/image/551-b4e1a69c/Oido%20Bioimpreso%20Captura%20Blender.jpg" data-mimetype-before-conversion="image/jpeg" data-resize-width="1600" data-mimetype="image/webp" data-quality="100" loading="lazy"/>
+                </div>
+                <div class="o_grid_item o_grid_item_image g-col-lg-3 g-height-10 col-lg-3 o_colored_level" style="z-index: 5; grid-area: 1 / 8 / 11 / 11; --grid-item-padding-y: 8px; --grid-item-padding-x: 16px;">
+                    <img src="/web/image/554-3741b3fa/Biotinta%20Captura%20Blender.webp" alt="" data-attachment-id="553" class="img img-fluid mx-auto o_we_custom_image d-block rounded" data-format-mimetype="image/webp" data-original-id="553" data-original-src="/web/image/553-83752343/Biotinta%20Captura%20Blender.jpg" data-mimetype-before-conversion="image/jpeg" data-resize-width="1600" data-mimetype="image/webp" data-quality="98" loading="lazy"/>
+                </div>
+                <div class="o_grid_item o_grid_item_image g-col-lg-2 g-height-8 col-lg-2 d-lg-block d-none o_snippet_mobile_invisible o_colored_level" style="z-index: 6; grid-area: 2 / 11 / 10 / 13; --grid-item-padding-y: 0px; --grid-item-padding-x: 0px;" data-invisible="1">
+                    <img class="img img-fluid mx-auto rounded" src="/web/image/website.library_image_16" alt="" loading="lazy"/>
+                </div>
+                <div class="o_grid_item g-height-5 g-col-lg-7 o_colored_level col-lg-7" style="z-index: 7; grid-area: 12 / 2 / 17 / 9; --grid-item-padding-y: 16px; --grid-item-padding-x: 16px;">
+                    <h2 style="text-align: left;"><strong>
+        Aprende con Nosotros&amp;nbsp;</strong></h2><p><br/></p>
+                    <p><span class="h5-fs">Nuestro objetivo es acercar el conocimiento sobre la bioimpresión 3D a estudiantes, docentes y al público general.</span></p><p><span class="h5-fs">
+3D Organ Inc combina educación, ciencia y tecnología para promover una nueva forma de aprendizaje visual en este campo de Estudio.</span></p>
+                </div>
+                
+            <div class="o_grid_item g-height-2 g-col-lg-3 col-lg-3 o_colored_level" style="z-index: 8; --grid-item-padding-y: 16px; --grid-item-padding-x: 16px; grid-area: 14 / 9 / 16 / 12;">
+                    <p style="text-align: right;">
+                        <a class="o_translate_inline btn btn-primary" href="/privacy"><span class="h4-fs"><strong>Empieza a aprender</strong></span></a>
+                    </p>
+                </div></div>
+        </div>
+    </section></div>
+    </t>
+</t>
