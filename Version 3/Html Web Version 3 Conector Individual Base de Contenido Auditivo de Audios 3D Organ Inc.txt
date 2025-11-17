@@ -1,0 +1,14 @@
+CODIGO Base Modelo del Proyecto de Semillero de Opción de Grado llamado 3D Organ-Inc Versión 3, Formato HTML y .text de la Conexión de la Web al Audio Subido para poder dejar escuchar al Usuario dicho audio, y que el mismo pueda pausarlo, atrasarlo o adelantarlo en una pagina determinada de la PLATAFORMA WEB:
+
+
+
+<div class="o_we_shape o_html_builder_Connections_20 o_shape_show_mobile" style="background-image: url(&quot;/html_editor/shape/html_builder/Connections/20.svg?c5=o-color-4&quot;); background-position: 50% 100%;"/>
+        <div class="container">
+            <p class="lead" style="text-align: center;"><br/></p><p class="lead" style="text-align: center;"><span class="h3-fs"><font class="text-o-color-4"><strong>Contenido Auditivo</strong></font></span></p><p class="lead" style="text-align: center;"><span class="h5-fs"><font style="color: rgb(0, 0, 0);"><strong>Aqui el usuario podra interactuar con el audio respecto al modelo que esta visualizando donde se explica a detalle el proceso que este conlleva.</strong></font></span></p>
+            <p><br/></p>
+            <div class="row">
+                <div class="col-lg-8 offset-lg-2 o_colored_level pb0 pt8">
+                    <div data-oe-expression="//www.youtube.com/embed/vUsB9IzPqF0?rel=0&amp;autoplay=0&amp;controls=0&amp;loop=1&amp;playlist=vUsB9IzPqF0" class="mx-auto d-block media_iframe_video" style="width: 25% !important;"/>
+                </div>
+            </div>
+        </div>

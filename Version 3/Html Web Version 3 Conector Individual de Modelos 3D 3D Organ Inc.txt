@@ -1,0 +1,51 @@
+CODIGO Base Modelo del Proyecto de Semillero de Opción de Grado llamado 3D Organ-Inc Versión 3, Formato HTML y .text de la Conexión de la Web al Visor de Modelos 3D de Google para poder mostrar un modelo 3d Hecho en Blender y Formato .glb ( individual ) en una pagina determinada de la PLATAFORMA WEB:
+
+
+<script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
+
+<div id="viewer-wrap" style="width:100%; max-width:1200px; margin:0 auto; padding:10px;">
+  <div id="viewer-status" style="padding:12px; color:#444; font-family:Arial, sans-serif;">
+    Probando acceso al modelo 3D...
+  </div>
+  <div id="viewer-container" style="display:none;">
+    <model-viewer id="mv" alt="Modelo 3D del Oído Humano - 3D Organ Inc" shadow-intensity="1" camera-controls="" auto-rotate="" interaction-prompt="auto" style="width:100%; height:650px; border-radius:12px; background-color:#fff;">
+    </model-viewer>
+    <p style="text-align:center; font-family:Arial, sans-serif; color:#666; margin-top:8px;">
+      Usa el ratón o gesto táctil para girar, acercar y alejar el modelo.
+    </p>
+  </div>
+</div>
+
+<script>
+(async function(){
+  
+  const srcUrl = "https://3d-organ-inc-web.odoo.com/web/content/506?unique=1aae4ce1bd428c1987395b3cb6a6fc7c89a96f34&download=true";
+
+  const statusEl = document.getElementById('viewer-status');
+  const cont = document.getElementById('viewer-container');
+  const mv = document.getElementById('mv');
+
+  try {
+    statusEl.textContent = 'Comprobando URL: ' + srcUrl;
+    const resp = await fetch(srcUrl, { method: 'HEAD' }); 
+    if (!resp.ok) {
+      statusEl.innerHTML = '<strong>Error:</strong> La URL respondió con código ' + resp.status + '.<br>Revisa que la ruta sea accesible públicamente desde el navegador.';
+      return;
+    }
+
+    
+    const ac = resp.headers.get('access-control-allow-origin');
+    if (ac && ac !== '*' && !location.origin.includes(new URL(srcUrl, location.href).origin)) {
+      statusEl.innerHTML = '<strong>Advertencia CORS:</strong> el servidor responde con Access-Control-Allow-Origin = ' + ac + '<br>Esto puede bloquear la carga en model-viewer.';
+    }
+
+    mv.setAttribute('src', srcUrl);
+    cont.style.display = 'block';
+    statusEl.style.display = 'none';
+
+  } catch (err) {
+    statusEl.innerHTML = '<strong>Excepción:</strong> no se pudo obtener el archivo.<br>Revisa la consola para detalles.<br><pre style="white-space:pre-wrap;">' + err + '</pre>';
+    console.error(err);
+  }
+})();
+</script>
