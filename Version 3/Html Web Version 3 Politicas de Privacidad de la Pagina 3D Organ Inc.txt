@@ -1,0 +1,78 @@
+CODIGO del Proyecto de Semillero de Opción de Grado llamado 3D Organ-Inc Versión 3, Formato HTML y .text de la Pagina Políticas de Privacidad de la PLATAFORMA WEB:
+
+
+
+<t name="Privacy Policy" t-name="website.politica-de-privacidad">
+        <t t-call="website.layout">
+            <div id="wrap" class="">
+                <div class="oe_structure">
+                    <section class="s_title parallax s_parallax_is_fixed bg-black-50 pt24 pb24 o_colored_level" data-vcss="001" data-snippet="s_title" data-scroll-background-ratio="1">
+                        <span class="s_parallax_bg oe_img_bg o_bg_img_center o_bg_img_origin_border_box" style="background-image: url('/web/image/website.s_parallax_default_image'); background-position: 50% 0;"/>
+                        <div class="o_we_bg_filter bg-black-50"/>
+                        <div class="container">
+                            <h1><span class="display-4-fs"><strong>Políticas de privacidad</strong></span></h1>
+                        </div>
+                    </section>
+                </div>
+                <div class="oe_structure"><section class="s_faq_collapse o_cc o_cc2 o_colored_level pb32 pt32" data-vcss="001" data-snippet="s_faq_collapse">
+        <div class="container">
+            <div class="row s_nb_column_fixed align-items-start">
+                <div class="col-lg-4 pt16 o_colored_level">
+                    <h2 class="h3-fs"><strong>Politicas de Nuestra Web Educativa</strong><br/></h2>
+                    <p class="lead">Estas son las Politicas de Privacidad Respectivas actuales con las que contamos actualmente en Nuestra Organizacion y Web Interactiva, da Click abajo en el Boton Aceptar para continuar y Empezar tu Aprendizaje con Nosotros; estas Politicas son actualizadas Periodicamente para la Mejora Continua de Nuestra Calidad.</p><p><a class="btn btn-primary" href="/galeria"><span class="h5-fs"><strong>Aceptar Politicas y Empezar Hoy !!!</strong></span></a></p>
+                </div>
+                <div class="col-lg-7 offset-lg-1 s_col_no_bgcolor" data-name="Accordion Box">
+    <div data-name="Accordion" class="s_accordion">
+        <div id="myCollapse" class="accordion-flush accordion">
+            <div class="accordion-item position-relative z-1" data-name="Accordion Item">
+                <button type="button" class="accordion-header accordion-button justify-content-between gap-2 bg-transparent h6-fs fw-bold text-decoration-none text-reset transition-none collapsed" data-bs-toggle="collapse" aria-expanded="false" id="accordion-button984325_1" data-bs-target="#myCollapseTab984325_1" aria-controls="myCollapseTab984325_1"><span class="flex-grow-1"><span class="h5-fs">¿Cuáles son los servicios que ofrece nuestra web?</span></span></button>
+                <div class="accordion-collapse collapse" data-bs-parent="#myCollapse" role="region" id="myCollapseTab984325_1" aria-labelledby="accordion-button984325_1">
+                    <div class="accordion-body">
+                        <p><span class="h5-fs">Nuestra web se especializa en el aprendizaje de la Bioimpresion 3D en el Ambito de la Medicina Regenerativa. Adaptamos nuestros servicios para satisfacer las necesidades del Publico General Interesado sin importar del Sector que venga para ayudarles a crecer y tener éxito en este campo en especifico.</span></p>
+                    </div>
+                </div>
+            </div>
+            <div class="accordion-item position-relative z-1" data-name="Accordion Item">
+                <button type="button" class="accordion-header accordion-button justify-content-between gap-2 bg-transparent h6-fs fw-bold text-decoration-none text-reset transition-none collapsed" data-bs-toggle="collapse" aria-expanded="false" id="accordion-button984325_2" data-bs-target="#myCollapseTab984325_2" aria-controls="myCollapseTab984325_2"><span class="flex-grow-1"><p><span class="h5-fs">Información que recopilamos</span></p></span></button>
+                <div class="accordion-collapse collapse" data-bs-parent="#myCollapse" role="region" id="myCollapseTab984325_2" aria-labelledby="accordion-button984325_2">
+                    <div class="accordion-body">
+                        <p><span class="h5-fs">Nuestra plataforma web educativa puede solicitarle o registrar su información unicamente con fines educativos y de mejora de nuestro servicio, como:</span></p><ul>
+<li class="h5-fs"><p>Nombre o alias del usuario.</p></li>
+<li class="h5-fs"><p>Dirección de correo electrónico (para acceso o registro en casos muy especificos).</p></li>
+<li class="h5-fs"><p>Datos de interacción dentro del sitio (por ejemplo: tiempo de uso, módulos visitados o avance en tutoriales).</p></li></ul>
+                    </div>
+                </div>
+            </div>
+            <div class="accordion-item position-relative z-1" data-name="Accordion Item">
+                <button type="button" class="accordion-header accordion-button justify-content-between gap-2 bg-transparent h6-fs fw-bold text-decoration-none text-reset transition-none collapsed" data-bs-toggle="collapse" aria-expanded="false" id="accordion-button984325_3" data-bs-target="#myCollapseTab984325_3" aria-controls="myCollapseTab984325_3"><span class="flex-grow-1"><p><span class="h5-fs">Cambios en Estas&amp;nbsp;Políticas y Terminos</span></p></span></button>
+                <div class="accordion-collapse collapse" data-bs-parent="#myCollapse" role="region" id="myCollapseTab984325_3" aria-labelledby="accordion-button984325_3">
+                    <div class="accordion-body">
+                        <p><span class="h5-fs">Nos reservamos el derecho de actualizar estas políticas de privacidad en cualquier momento. Las modificaciones entrarán en vigor a partir de su publicación&amp;nbsp;y actualizacion en esta página en especifico.</span></p>
+                    </div>
+                </div>
+            </div><div class="accordion-item position-relative z-1" data-name="Accordion Item">
+                <button type="button" class="accordion-header accordion-button justify-content-between gap-2 bg-transparent h6-fs fw-bold text-decoration-none text-reset transition-none collapsed" data-bs-toggle="collapse" aria-expanded="false" id="myCollapseBtn1763172130984" data-bs-target="#myCollapseTab1763172130983" aria-controls="myCollapseTab1763172130983"><span class="flex-grow-1"><p><span class="h5-fs">Cookies y Tecnologías Relacionadas</span><br/></p></span></button>
+                <div class="accordion-collapse collapse" data-bs-parent="#myCollapse" role="region" id="myCollapseTab1763172130983" aria-labelledby="myCollapseBtn1763172130984">
+                    <div class="accordion-body">
+                        <p><span class="h5-fs">Nuestro sitio puede utilizar cookies o tecnologías de análisis para mejorar el rendimiento y la navegación.</span></p><p><span class="h5-fs">
+El usuario puede configurar su navegador para aceptar o rechazar cookies, aunque esto podría limitar algunas funcionalidades de la plataforma.</span></p>
+                    </div>
+                </div>
+            </div><div class="accordion-item position-relative z-1" data-name="Accordion Item">
+                <button type="button" class="accordion-header accordion-button justify-content-between gap-2 bg-transparent h6-fs fw-bold text-decoration-none text-reset transition-none" data-bs-toggle="collapse" aria-expanded="true" id="myCollapseBtn1763172231151" data-bs-target="#myCollapseTab1763172231150" aria-controls="myCollapseTab1763172231150"><span class="flex-grow-1"><p><span class="h5-fs">Contacto con Nosotros y Sugerencias</span><br/></p></span></button>
+                <div class="accordion-collapse collapse show" data-bs-parent="#myCollapse" role="region" id="myCollapseTab1763172231150" aria-labelledby="myCollapseBtn1763172231151">
+                    <div class="accordion-body">
+                        <p><span class="h5-fs">Si tienes dudas, reclamos, sugerencias, preguntas o solicitudes relacionadas con tu privacidad u otros temas con respecto a nuestra web, sus funcionalidades o terminos&amp;nbsp;puedes contactarnos al correo electrónico que aparece abajo:</span></p><p><span class="h5-fs">
+📧 </span><strong/><span class="h5-fs"><strong><a href="mailto:jabrilro@uninpahu.edu.co">jabrilro@uninpahu.edu.co</a></strong></span><strong/></p><p><br/></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+                </div>
+            </div>
+        </div>
+    </section></div>
+            </div>
+        </t>
+    </t>

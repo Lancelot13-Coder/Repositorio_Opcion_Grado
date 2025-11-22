@@ -1,0 +1,575 @@
+CODIGO del Proyecto de Semillero de Opción de Grado llamado 3D Organ-Inc Versión 3, Formato HTML y .text de la Pagina de Pruebas ( Testing ) de la PLATAFORMA WEB:
+
+
+
+<t t-name="website.pagina-de-pruebas">
+    <t t-call="website.layout">
+        <div id="wrap" class="oe_structure oe_empty"><section class="s_text_block o_colored_level pt16 pb24" data-snippet="s_text_block">
+        <div class="container s_allow_columns">
+            <h1 style="text-align: center;">Pruebas</h1>
+        </div>
+    </section>
+    <section class="s_three_columns o_colored_level pt0 pb24" data-vxml="001" data-vcss="001" data-snippet="s_three_columns">
+        <div class="container">
+            <div class="row d-flex align-items-stretch">
+                <div data-name="Card" class="col-lg-4 pb16 pt16">
+                    <div class="s_card o_card_img_top card h-100 o_cc o_cc1 my-0 o_colored_level" data-vxml="001" data-snippet="s_card" data-name="Card">
+                        <figure class="o_card_img_wrapper ratio ratio-16x9 mb-0">
+                            <img src="/web/image/583-1cef599e/Logo%203D%20OrganInc%20Ver%200.webp" alt="" data-attachment-id="580" class="o_card_img card-img-top img img-fluid o_we_custom_image" data-format-mimetype="image/webp" data-original-id="580" data-original-src="/web/image/580-2097341e/Logo%203D%20OrganInc%20Ver%200.png" data-mimetype-before-conversion="image/png" data-resize-width="690" data-mimetype="image/webp" loading="lazy"/>
+                        </figure>
+                        <div class="card-body">
+                            <h2 class="card-title h5-fs">Probando Version 1...</h2>
+    <p class="card-text">Esta pagina no esta publicada para su vista y al publico general; fue hecha unica y exclusivamente para la prueba de diferentes funcionalidades que se usaran y pondran en las demas paginas publicas de la plataforma...</p>
+    </div>
+        <div class="card-footer">
+            <a href="#" class="card-link">Leer más</a>
+        </div>
+                    </div>
+                </div>
+                <div data-name="Card" class="col-lg-4 pt16 pb16">
+                    <div class="s_card card h-100 o_cc o_cc1 my-0 o_colored_level o_card_img_top" data-vxml="001" data-snippet="s_card" data-name="Card">
+                        <figure class="o_card_img_wrapper ratio ratio-16x9 mb-0">
+                            <img src="/web/image/585-ae684e8c/3d%20Organ%20Inc%20Logo%20Beta%20Version.webp" alt="" data-attachment-id="584" class="o_card_img card-img-top img img-fluid o_we_custom_image" data-format-mimetype="image/webp" data-original-id="584" data-original-src="/web/image/584-1bacdd19/3d%20Organ%20Inc%20Logo%20Beta%20Version.png" data-mimetype-before-conversion="image/png" data-resize-width="690" data-mimetype="image/webp" loading="lazy"/>
+                        </figure>
+                        <div class="card-body">
+                            <h2 class="card-title h5-fs">Probando Version 2...</h2>
+    <p class="card-text">Esta pagina no esta publicada para su vista y al publico general; fue hecha unica y exclusivamente para la prueba de diferentes funcionalidades que se usaran y pondran en las demas paginas publicas de la plataforma...</p>
+    </div>
+        <div class="card-footer">
+            <a href="#" class="card-link">Leer más</a>
+        </div>
+                    </div>
+                </div>
+                <div data-name="Card" class="col-lg-4 pt16 pb16">
+                    <div class="s_card o_card_img_top card h-100 o_cc o_cc1 my-0 o_colored_level" data-vxml="001" data-snippet="s_card" data-name="Card">
+                        <figure class="o_card_img_wrapper ratio ratio-16x9 mb-0">
+                            <img src="/web/image/582-81c65190/3d%20organ%20in%20LOGO.webp" alt="" data-attachment-id="581" class="o_card_img card-img-top img img-fluid o_we_custom_image" data-format-mimetype="image/webp" data-original-id="581" data-original-src="/web/image/581-4aa190d1/3d%20organ%20in%20LOGO.png" data-mimetype-before-conversion="image/png" data-resize-width="690" data-mimetype="image/webp" loading="lazy"/>
+                        </figure>
+                        <div class="card-body">
+                            <h2 class="card-title h5-fs">Probando Version 3...</h2>
+    <p class="card-text">Esta pagina no esta publicada para su vista y al publico general; fue hecha unica y exclusivamente para la prueba de diferentes funcionalidades que se usaran y pondran en las demas paginas publicas de la plataforma...</p>
+    </div>
+        <div class="card-footer">
+            <a href="#" class="card-link">Leer más</a>
+        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="s_text_block o_colored_level pt8 pb8" data-snippet="s_text_block">
+        <div class="container s_allow_columns">
+            <h2 style="text-align: center;">Probando Funcionalidades</h2>
+        </div>
+    </section>
+    
+    <section class="s_references o_cc o_cc1 o_colored_level pt16 pb56" data-snippet="s_references">
+        <div class="container">
+            <h2 style="text-align: center;">Seccion por Logos Prueba</h2>
+            <p class="lead" style="text-align: center;">Aqui abajo se prueban Funcionalidades extras como Integracion de Modelos 3D y Audios en la Web</p>
+            <p style="text-align: center;">
+                <a class="o_translate_inline" href="#">&amp;nbsp;Más detalles <i class="fa fa-long-arrow-right ms-2"/></a>
+            </p>
+            <p><br/></p>
+            <div class="row">
+                <div class="col-6 col-lg-2 pt16 pb16 o_colored_level">
+                    <img src="/web/image/website.s_reference_demo_image_1" class="img img-fluid mx-auto" alt="" loading="lazy"/>
+                </div>
+                <div class="col-6 col-lg-2 pt16 pb16 o_colored_level">
+                    <img src="/web/image/website.s_reference_demo_image_2" class="img img-fluid mx-auto" alt="" loading="lazy"/>
+                </div>
+                <div class="col-6 col-lg-2 pt16 pb16 o_colored_level">
+                    <img src="/web/image/website.s_reference_demo_image_3" class="img img-fluid mx-auto" alt="" loading="lazy"/>
+                </div>
+                <div class="col-6 col-lg-2 pt16 pb16 o_colored_level">
+                    <img src="/web/image/website.s_reference_demo_image_4" class="img img-fluid mx-auto" alt="" loading="lazy"/>
+                </div>
+                <div class="col-6 col-lg-2 pt16 pb16 o_colored_level">
+                    <img src="/web/image/website.s_reference_demo_image_5" class="img img-fluid mx-auto" alt="" loading="lazy"/>
+                </div>
+                <div class="col-6 col-lg-2 pt16 pb16 o_colored_level">
+                    <img src="/web/image/website.s_reference_default_image_6" class="img img-fluid mx-auto" alt="" loading="lazy"/>
+                </div>
+            </div>
+        </div>
+    </section><section class="s_three_columns o_colored_level pt0 s_custom_snippet pb32" data-vxml="001" data-vcss="001" data-snippet="s_three_columns" data-name="undefined personalizado (2)">
+        <div class="container">
+            <div class="row d-flex o_grid_mode" data-row-count="31">
+                
+                
+                
+            <div data-name="Card" class="o_grid_item g-col-lg-4 g-height-9 col-lg-4" style="z-index: 5; grid-area: 1 / 1 / 10 / 5;">
+                    <div class="s_card o_card_img_top card h-100 o_cc o_cc1 my-0 o_colored_level" data-vxml="001" data-snippet="s_card" data-name="Card">
+                        <figure class="o_card_img_wrapper ratio ratio-16x9 mb-0">
+                            <span class="o_file_box o-contenteditable-false o_card_img card-img-top o_image" data-attachment-id="506"><span class="d-flex flex-grow-1 align-items-center alert alert-info"><span class="o_file_image d-flex o_image user-select-none" title="modelo_oído.glb" data-mimetype="model/gltf-binary"/><span class="o_file_name_container mx-2"><a class="o_link_readonly o-contenteditable-true" href="/web/content/506?unique=1aae4ce1bd428c1987395b3cb6a6fc7c89a96f34&amp;download=true">modelo_oído.glb</a></span></span></span>
+                        </figure>
+                        <div class="card-body">
+                            <h2 class="card-title h5-fs">&amp;nbsp;Modelo Probar<br/></h2>
+                            <p class="card-text">
+        Aprende a utilizar métodos de jardinería ecológica para cultivar los alimentos más frescos en tu huerto.
+    </p>
+                        </div>
+        <div class="card-footer">
+            <a href="#" class="card-link">Leer más</a>
+        </div>
+                    </div>
+                </div><div data-name="Card" class="o_grid_item g-col-lg-4 col-lg-4 g-height-9" style="z-index: 4; grid-area: 1 / 5 / 10 / 9;">
+                    <div class="s_card card h-100 o_cc o_cc1 my-0 o_colored_level o_card_img_top" data-vxml="001" data-snippet="s_card" data-name="Card">
+                        <figure class="o_card_img_wrapper mb-0 ratio ratio-16x9">
+                            <span class="o_file_box o-contenteditable-false o_card_img card-img-top o_image" data-attachment-id="526"><span class="d-flex flex-grow-1 align-items-center alert alert-info"><span class="o_file_image d-flex o_image user-select-none" title="Impresora_3d.glb" data-mimetype="model/gltf-binary"/><span class="o_file_name_container mx-2"><a class="o_link_readonly o-contenteditable-true" href="/web/content/526?unique=7e5dadfe9647d25f2c0abf01f0c1adc038ca0e04&amp;download=true">Impresora_3d.glb</a></span></span></span>
+                        </figure>
+                        <div class="card-body">
+                            <h2 class="card-title h5-fs">&amp;nbsp;Modelo Probar<br/></h2>
+                            <p class="card-text">
+        Aprende a utilizar métodos de jardinería ecológica para cultivar los alimentos más frescos en tu huerto.
+    </p>
+                        </div>
+        <div class="card-footer">
+            <a href="#" class="card-link">Leer más</a>
+        </div>
+                    </div>
+                </div><div data-name="Card" class="o_grid_item g-col-lg-4 g-height-9 col-lg-4" style="z-index: 6; grid-area: 1 / 9 / 10 / 13;">
+                    <div class="s_card card h-100 o_cc o_cc1 my-0 o_colored_level o_card_img_top" data-vxml="001" data-snippet="s_card" data-name="Card">
+                        <figure class="o_card_img_wrapper mb-0 ratio ratio-16x9">
+                            <span class="o_file_box o-contenteditable-false o_card_img card-img-top o_image" data-attachment-id="528"><span class="d-flex flex-grow-1 align-items-center alert alert-info"><span class="o_file_image d-flex o_image user-select-none" title="oido bioimpreso.glb" data-mimetype="model/gltf-binary"/><span class="o_file_name_container mx-2"><a class="o_link_readonly o-contenteditable-true" href="/web/content/528?unique=b5fc4e85d7b1fda6fe5949dbf5166ef8b304ea6b&amp;download=true">oido bioimpreso.glb</a></span></span></span>
+                        </figure>
+                        <div class="card-body">
+                            <h2 class="card-title h5-fs">&amp;nbsp;Modelo Probar<br/></h2>
+                            <p class="card-text">
+        Aprende a utilizar métodos de jardinería ecológica para cultivar los alimentos más frescos en tu huerto.
+    </p>
+                        </div>
+        <div class="card-footer">
+            <a href="#" class="card-link">Leer más</a>
+        </div>
+                    </div>
+                </div><div data-name="Card" class="o_grid_item g-col-lg-4 g-height-9 col-lg-4" style="z-index: 7; grid-area: 10 / 1 / 19 / 5;">
+                    <div class="s_card o_card_img_top card h-100 o_cc o_cc1 my-0 o_colored_level" data-vxml="001" data-snippet="s_card" data-name="Card">
+                        <figure class="o_card_img_wrapper ratio ratio-16x9 mb-0">
+                            <span class="o_file_box o-contenteditable-false o_card_img card-img-top o_image" data-attachment-id="529"><span class="d-flex flex-grow-1 align-items-center alert alert-info"><span class="o_file_image d-flex o_image user-select-none" title="Biotinta.glb" data-mimetype="model/gltf-binary"/><span class="o_file_name_container mx-2"><a class="o_link_readonly o-contenteditable-true" href="/web/content/529?unique=c87a7979e62a4d4c40938614d0f8cab12d258751&amp;download=true">Biotinta.glb</a></span></span></span>
+                        </figure>
+                        <div class="card-body">
+                            <h2 class="card-title h5-fs">&amp;nbsp;Prueba<br/></h2>
+                            <p class="card-text">
+        La reutilización del agua en lugar de utilizar agua dulce puede ser una buena forma de reducir el consumo de agua.
+    </p>
+                        </div>
+        <div class="card-footer">
+            <a href="#" class="card-link">Leer más</a>
+        </div>
+                    </div>
+                </div><div data-name="Card" class="o_grid_item g-col-lg-4 col-lg-4 g-height-9" style="z-index: 8; grid-area: 10 / 5 / 19 / 9;">
+                    <div class="s_card card h-100 o_cc o_cc1 my-0 o_colored_level o_card_img_top" data-vxml="001" data-snippet="s_card" data-name="Card">
+                        <figure class="o_card_img_wrapper ratio ratio-16x9 mb-0">
+                            <span class="o_file_box o-contenteditable-false o_card_img card-img-top o_image" data-attachment-id="600"><span class="d-flex flex-grow-1 align-items-center alert alert-info"><span class="o_file_image d-flex o_image user-select-none" title="Coclea.glb" data-mimetype="model/gltf-binary"/><span class="o_file_name_container mx-2"><a class="o_link_readonly o-contenteditable-true" href="/web/content/600?unique=32859359f80a1590483fb5690f7dd71557e74a07&amp;download=true">Coclea.glb</a></span></span></span>
+                        </figure>
+                        <div class="card-body">
+                            <h2 class="card-title h5-fs">&amp;nbsp;Prueba<br/></h2>
+                            <p class="card-text">
+        La reutilización del agua en lugar de utilizar agua dulce puede ser una buena forma de reducir el consumo de agua.
+    </p>
+                        </div>
+        <div class="card-footer">
+            <a href="#" class="card-link">Leer más</a>
+        </div>
+                    </div>
+                </div><div data-name="Card" class="o_grid_item g-col-lg-4 g-height-9 col-lg-4" style="z-index: 9; grid-area: 10 / 9 / 19 / 13;">
+                    <div class="s_card card h-100 o_cc o_cc1 my-0 o_colored_level o_card_img_top" data-vxml="001" data-snippet="s_card" data-name="Card">
+                        <figure class="o_card_img_wrapper ratio ratio-16x9 mb-0">
+                            <span class="o_file_box o-contenteditable-false o_card_img card-img-top o_image" data-attachment-id="601"><span class="d-flex flex-grow-1 align-items-center alert alert-info"><span class="o_file_image d-flex o_image user-select-none" title="Sonido interno cabeza.glb" data-mimetype="model/gltf-binary"/><span class="o_file_name_container mx-2"><a class="o_link_readonly o-contenteditable-true" href="/web/content/601?unique=d152ca1b3c192b380fa5b439dae360f26140297b&amp;download=true">Sonido interno cabeza.glb</a></span></span></span>
+                        </figure>
+                        <div class="card-body">
+                            <h2 class="card-title h5-fs">&amp;nbsp;Prueba<br/></h2>
+                            <p class="card-text">
+        La reutilización del agua en lugar de utilizar agua dulce puede ser una buena forma de reducir el consumo de agua.
+    </p>
+                        </div>
+        <div class="card-footer">
+            <a href="#" class="card-link">Leer más</a>
+        </div>
+                    </div>
+                </div><div data-name="Card" class="o_grid_item g-col-lg-4 col-lg-4 g-height-9" style="z-index: 16; grid-area: 19 / 1 / 28 / 5;">
+                    <div class="s_card card h-100 o_cc o_cc1 my-0 o_colored_level o_card_img_top" data-vxml="001" data-snippet="s_card" data-name="Card">
+                        <figure class="o_card_img_wrapper mb-0 ratio ratio-16x9">
+                            <span class="o_file_box o-contenteditable-false o_card_img card-img-top o_image" data-attachment-id="602"><span class="d-flex flex-grow-1 align-items-center alert alert-info"><span class="o_file_image d-flex o_image user-select-none" title="incubadora.glb" data-mimetype="model/gltf-binary"/><span class="o_file_name_container mx-2"><a class="o_link_readonly o-contenteditable-true" href="/web/content/602?unique=d76134b0caaeecc47e12826a6edf4d8f8cecb815&amp;download=true">incubadora.glb</a></span></span></span>
+                        </figure>
+                        <div class="card-body">
+                            <h2 class="card-title h5-fs">&amp;nbsp;Prueba<br/></h2>
+                            <p class="card-text">
+        La reutilización del agua en lugar de utilizar agua dulce puede ser una buena forma de reducir el consumo de agua.
+    </p>
+                        </div>
+        <div class="card-footer">
+            <a href="#" class="card-link">Leer más</a>
+        </div>
+                    </div>
+                </div><div class="o_grid_item g-height-4 g-col-lg-4 col-lg-4" style="z-index: 10; grid-area: 28 / 1 / 32 / 5;"><div data-oe-expression="//www.youtube.com/embed/MZN3-d5nBrc?rel=0&amp;autoplay=0&amp;fs=0" class="media_iframe_video"/></div><div class="o_grid_item g-col-lg-2 g-height-2 col-lg-2" style="z-index: 12; grid-area: 28 / 5 / 30 / 7;"><div data-oe-expression="//www.youtube.com/embed/djV11Xbc914?rel=0&amp;autoplay=0&amp;controls=0" class="media_iframe_video"/></div><div class="o_grid_item g-col-lg-2 g-height-2 col-lg-2" style="z-index: 13; grid-area: 30 / 7 / 32 / 9;"><div data-oe-expression="//www.youtube.com/embed/1V_xRb0x9aw?rel=0&amp;autoplay=0&amp;controls=0&amp;loop=1&amp;playlist=1V_xRb0x9aw" class="media_iframe_video"/></div><div class="o_grid_item g-height-4 g-col-lg-4 col-lg-4" style="z-index: 11; grid-area: 28 / 9 / 32 / 13;"><div data-oe-expression="//www.youtube.com/embed/stzppTHxeYY?rel=0&amp;autoplay=0&amp;controls=0&amp;loop=1&amp;playlist=stzppTHxeYY" class="media_iframe_video"/></div><div data-name="Card" class="o_grid_item g-col-lg-4 col-lg-4 g-height-9" style="z-index: 15; grid-area: 19 / 5 / 28 / 9;">
+                    <div class="s_card card h-100 o_cc o_cc1 my-0 o_colored_level o_card_img_top" data-vxml="001" data-snippet="s_card" data-name="Card">
+                        <figure class="o_card_img_wrapper ratio ratio-16x9 mb-0">
+                            <span class="o_file_box o-contenteditable-false o_card_img card-img-top o_image" data-attachment-id="603"><span class="d-flex flex-grow-1 align-items-center alert alert-info"><span class="o_file_image d-flex o_image user-select-none" title="Andamio material.glb" data-mimetype="model/gltf-binary"/><span class="o_file_name_container mx-2"><a class="o_link_readonly o-contenteditable-true" href="/web/content/603?unique=0022f69be6209e45db512d360f6f030580c091aa&amp;download=true">Andamio material.glb</a></span></span></span>
+                        </figure>
+                        <div class="card-body">
+                            <h2 class="card-title h5-fs">&amp;nbsp;Prueba<br/></h2>
+                            <p class="card-text">
+        La reutilización del agua en lugar de utilizar agua dulce puede ser una buena forma de reducir el consumo de agua.
+    </p>
+                        </div>
+        <div class="card-footer">
+            <a href="#" class="card-link">Leer más</a>
+        </div>
+                    </div>
+                </div><div data-name="Card" class="o_grid_item g-col-lg-4 col-lg-4 g-height-9" style="z-index: 14; grid-area: 19 / 9 / 28 / 13;">
+                    <div class="s_card o_card_img_top card h-100 o_cc o_cc1 my-0 o_colored_level" data-vxml="001" data-snippet="s_card" data-name="Card">
+                        <figure class="o_card_img_wrapper ratio ratio-16x9 mb-0">
+                            <img class="o_card_img card-img-top" src="/web/image/website.s_three_columns_default_image_1" alt="" loading="lazy" data-mimetype="image/webp"/>
+                        </figure>
+                        <div class="card-body">
+                            <h2 class="card-title h5-fs">&amp;nbsp;Prueba<br/></h2>
+                            <p class="card-text">
+        La reutilización del agua en lugar de utilizar agua dulce puede ser una buena forma de reducir el consumo de agua.
+    </p>
+                        </div>
+        <div class="card-footer">
+            <a href="#" class="card-link">Leer más</a>
+        </div>
+                    </div>
+                </div></div>
+        </div>
+    </section>
+    <section class="s_quotes_carousel_wrapper o_colored_level o_cc o_cc1" data-vxml="001" data-vcss="002" data-snippet="s_quotes_carousel">
+        <div class="s_quotes_carousel s_carousel_boxed carousel carousel-dark slide o_cc o_cc2 s_carousel_rounded o_colored_level" data-bs-ride="true" data-bs-interval="10000" id="myQuoteCarousel499814">
+            
+            <div class="carousel-inner">
+                
+                <div class="carousel-item oe_img_bg o_bg_img_center pt80 pb80 o_colored_level o_bg_img_origin_border_box active" style="background-image: url(&quot;/web/image/website.s_quotes_carousel_demo_image_0&quot;); background-position: 50% 50%;" data-name="Slide">
+                    <blockquote data-name="Blockquote" data-snippet="s_blockquote" class="s_blockquote s_blockquote_with_icon o_cc o_cc1 o_animable position-relative d-flex flex-column gap-4 w-50 mx-auto p-5 fst-normal o_colored_level" data-vcss="001">
+                        <div class="s_blockquote_line_elt position-absolute top-0 start-0 bottom-0 bg-o-color-1"/>
+                        <div class="s_blockquote_wrap_icon position-absolute top-0 start-50 translate-middle w-100">
+                            <i class="s_blockquote_icon fa fa-quote-right d-block mx-auto rounded bg-o-color-1" role="img"/>
+                        </div>
+                        <p class="s_blockquote_quote my-auto h4-fs" style="text-align:center;">"Esta pagina no esta publicada para su vista y al publico general; fue hecha unica y exclusivamente para la prueba de diferentes funcionalidades que se usaran y pondran en las demas paginas publicas de la plataforma".</p>
+                        <div class="s_blockquote_infos d-flex gap-2 flex-column align-items-center w-100 text-center">
+                            <img src="/web/image/website.s_quotes_carousel_demo_image_3" class="s_blockquote_avatar img rounded-circle" alt=""/>
+                            <div class="s_blockquote_author">
+                                <span class="o_small">
+                                    <strong>Uninpahu</strong><br/>
+                                    <span class="text-muted">Proyecto Web 3D Organ-Inc</span></span></div>
+                        </div>
+                    </blockquote>
+                </div>
+                
+                <div class="carousel-item oe_img_bg o_bg_img_center pt80 pb80 o_colored_level o_bg_img_origin_border_box" style="background-image: url(&quot;/web/image/website.s_quotes_carousel_demo_image_1&quot;); background-position: 50% 50%;" data-name="Slide">
+                    <blockquote data-name="Blockquote" data-snippet="s_blockquote" class="s_blockquote s_blockquote_with_icon o_cc o_cc1 o_animable position-relative d-flex flex-column gap-4 w-50 mx-auto p-5 fst-normal o_colored_level" data-vcss="001">
+                        <div class="s_blockquote_line_elt position-absolute top-0 start-0 bottom-0 bg-o-color-1"/>
+                        <div class="s_blockquote_wrap_icon position-absolute top-0 start-50 translate-middle w-100">
+                            <i class="s_blockquote_icon fa fa-quote-right d-block mx-auto rounded bg-o-color-1" role="img"/>
+                        </div>
+                        <p class="s_blockquote_quote my-auto h4-fs" style="text-align:center;">"Esta pagina no esta publicada para su vista y al publico general; fue hecha unica y exclusivamente para la prueba de diferentes funcionalidades que se usaran y pondran en las demas paginas publicas de la plataforma".</p>
+                        <div class="s_blockquote_infos d-flex gap-2 flex-column align-items-center w-100 text-center">
+                            <img src="/web/image/website.s_quotes_carousel_demo_image_4" class="s_blockquote_avatar img rounded-circle" alt=""/>
+                            <div class="s_blockquote_author">
+                                <span class="o_small">
+                                    <strong>Uninpahu</strong><br/>
+                                    <span class="text-muted"><span class="o_small"><span class="text-muted">Proyecto Web 3D Organ-Inc</span></span></span>
+                                </span>
+                            </div>
+                        </div>
+                    </blockquote>
+                </div>
+                
+                <div class="carousel-item oe_img_bg o_bg_img_center o_colored_level o_bg_img_origin_border_box pt48 pb64" style="background-image: url(&quot;/web/image/website.s_quotes_carousel_demo_image_2&quot;); background-position: 50% 50%;" data-name="Slide">
+                    <blockquote data-name="Blockquote" data-snippet="s_blockquote" class="s_blockquote s_blockquote_with_icon o_cc o_cc1 o_animable position-relative d-flex flex-column gap-4 w-50 mx-auto p-5 fst-normal o_colored_level" data-vcss="001">
+                        <div class="s_blockquote_line_elt position-absolute top-0 start-0 bottom-0 bg-o-color-1"/>
+                        <div class="s_blockquote_wrap_icon position-absolute top-0 start-50 translate-middle w-100">
+                            <i class="s_blockquote_icon fa fa-quote-right d-block mx-auto rounded bg-o-color-1" role="img"/>
+                        </div>
+                        <p class="s_blockquote_quote my-auto h4-fs" style="text-align:center;">"Esta pagina no esta publicada para su vista y al publico general; fue hecha unica y exclusivamente para la prueba de diferentes funcionalidades que se usaran y pondran en las demas paginas publicas de la plataforma".</p>
+                        <div class="s_blockquote_infos d-flex gap-2 flex-column align-items-center w-100 text-center">
+                            <img src="/web/image/website.s_quotes_carousel_demo_image_5" class="s_blockquote_avatar img rounded-circle" alt=""/>
+                            <div class="s_blockquote_author">
+                                <span class="o_small">
+                                    <strong>Uninpahu</strong><br/>
+                                    <span class="text-muted"><span class="o_small"><span class="text-muted">Proyecto Web 3D Organ-Inc</span></span></span>
+                                </span>
+                            </div>
+                        </div>
+                    </blockquote>
+                </div>
+            </div>
+            
+            <button class="carousel-control-prev o_not_editable" aria-label="Anterior" title="Anterior" data-bs-target="#myQuoteCarousel499814" data-bs-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"/>
+                    <span class="visually-hidden">Anterior</span>
+            </button>
+            <button class="carousel-control-next o_not_editable" aria-label="Siguiente" title="Siguiente" data-bs-target="#myQuoteCarousel499814" data-bs-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"/>
+                <span class="visually-hidden">Siguiente</span>
+            </button>
+            
+            <div class="carousel-indicators s_carousel_indicators_dots o_not_editable">
+                <button type="button" class="active" aria-label="Indicador de carrusel" data-bs-target="#myQuoteCarousel499814" data-bs-slide-to="0" aria-current="true"/>
+                <button type="button" aria-label="Indicador de carrusel" data-bs-target="#myQuoteCarousel499814" data-bs-slide-to="1"/>
+                <button type="button" aria-label="Indicador de carrusel" data-bs-target="#myQuoteCarousel499814" data-bs-slide-to="2"/>
+            </div>
+        </div>
+    </section><section class="s_embed_code o_colored_level s_custom_snippet pt0 pb0 text-center" data-snippet="s_embed_code" data-name="Insertar código personalizado (2)">
+        <template class="s_embed_code_saved"><script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"/>
+
+<style>
+  .model-card {
+    display: inline-block;
+    margin: 20px;
+    text-align: center;
+    background: #f9f9f9;
+    border-radius: 15px;
+    padding: 15px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+    transition: transform 0.3s;
+  }
+  .model-card:hover {
+    transform: scale(1.02);
+  }
+  .model-viewer {
+    width: 350px;
+    height: 350px;
+    border-radius: 12px;
+    background-color: #fff;
+  }
+  .model-title {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    color: #222;
+    margin-top: 10px;
+  }
+  .model-desc {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    color: #555;
+  }
+</style>
+
+<div id="multi-viewer" style="text-align:center;">
+    
+    
+  <div class="model-card">
+    <model-viewer class="model-viewer" src="https://3d-organ-inc-web.odoo.com/web/content/506?unique=1aae4ce1bd428c1987395b3cb6a6fc7c89a96f34&amp;download=true" alt="Modelo 3D del Oído Humano" camera-controls="" auto-rotate="" rotation-per-second="30deg" shadow-intensity="1" exposure="1.2" interaction-prompt="auto">
+    </model-viewer>
+    <div class="model-title">Oído Humano</div>
+    <div class="model-desc">Modelo anatómico 3D del oído (externo, medio e interno). Interactivo para explorar estructura y función auditiva.</div>
+  </div>
+  
+  
+  
+  
+
+  <div class="model-card">
+    <model-viewer class="model-viewer" src="https://3d-organ-inc-web.odoo.com/web/content/526?unique=7e5dadfe9647d25f2c0abf01f0c1adc038ca0e04&amp;download=true" alt="Modelo 3D del Corazón" camera-controls="" auto-rotate="" rotation-per-second="25deg" shadow-intensity="1" exposure="1.2" interaction-prompt="auto">
+    </model-viewer>
+    <div class="model-title">Impresora 3D</div>
+    <div class="model-desc">Representación del equipo que deposita biotinta capa a capa para construir tejidos tridimensionales.</div>
+   </div>
+   
+   
+   
+   
+   
+   <div class="model-card">
+    <model-viewer class="model-viewer" src="https://3d-organ-inc-web.odoo.com/web/content/528?unique=b5fc4e85d7b1fda6fe5949dbf5166ef8b304ea6b&amp;download=true" alt="Modelo 3D del Corazón" camera-controls="" auto-rotate="" rotation-per-second="25deg" shadow-intensity="1" exposure="1.2" interaction-prompt="auto">
+    </model-viewer>
+    <div class="model-title">Oído BioImpreso</div>
+    <div class="model-desc">Versión simulada del oído tras el proceso de bioimpresión — muestra la forma final y la microestructura esperada.</div>
+   </div>
+   
+   
+   
+   
+   
+   <div class="model-card">
+    <model-viewer class="model-viewer" src="https://3d-organ-inc-web.odoo.com/web/content/529?unique=c87a7979e62a4d4c40938614d0f8cab12d258751&amp;download=true" alt="Modelo 3D del Corazón" camera-controls="" auto-rotate="" rotation-per-second="25deg" shadow-intensity="1" exposure="1.2" interaction-prompt="auto">
+    </model-viewer>
+    <div class="model-title">BioTinta</div>
+    <div class="model-desc">Modelo de la composición y microestructura de la biotinta: matriz, células y aditivos usados en impresión de tejidos.</div>
+   </div>
+   
+   
+   
+   
+   
+   <div class="model-card">
+    <model-viewer class="model-viewer" src="https://3d-organ-inc-web.odoo.com/web/content/600?unique=32859359f80a1590483fb5690f7dd71557e74a07&amp;download=true" alt="Modelo 3D del Corazón" camera-controls="" auto-rotate="" rotation-per-second="25deg" shadow-intensity="1" exposure="1.2" interaction-prompt="auto">
+    </model-viewer>
+    <div class="model-title">Coclea</div>
+    <div class="model-desc">Modelo 3D de la cóclea: estructura en espiral responsable de convertir vibraciones en señales neuronales.</div>
+   </div>
+   
+   
+   
+   
+   
+   <div class="model-card">
+    <model-viewer class="model-viewer" src="https://3d-organ-inc-web.odoo.com/web/content/601?unique=d152ca1b3c192b380fa5b439dae360f26140297b&amp;download=true" alt="Modelo 3D del Corazón" camera-controls="" auto-rotate="" rotation-per-second="25deg" shadow-intensity="1" exposure="1.2" interaction-prompt="auto">
+    </model-viewer>
+    <div class="model-title">Sonido Interno</div>
+    <div class="model-desc">Visualización dinámica del recorrido de la onda sonora desde la entrada hasta la transducción neuronal.</div>
+   </div>
+   
+   
+   
+   
+   
+   <div class="model-card">
+    <model-viewer class="model-viewer" src="https://3d-organ-inc-web.odoo.com/web/content/602?unique=d76134b0caaeecc47e12826a6edf4d8f8cecb815&amp;download=true" alt="Modelo 3D del Corazón" camera-controls="" auto-rotate="" rotation-per-second="25deg" shadow-intensity="1" exposure="1.2" interaction-prompt="auto">
+    </model-viewer>
+    <div class="model-title">Incubadora</div>
+    <div class="model-desc">Modelo de la incubadora usada para conservar y madurar tejidos bioimpresos en condiciones controladas.</div>
+   </div>
+   
+   
+   
+   
+   
+   <div class="model-card">
+    <model-viewer class="model-viewer" src="https://3d-organ-inc-web.odoo.com/web/content/603?unique=0022f69be6209e45db512d360f6f030580c091aa&amp;download=true" alt="Modelo 3D del Andamio Biomaterial" camera-controls="" auto-rotate="" rotation-per-second="25deg" shadow-intensity="1" exposure="1.2" interaction-prompt="auto">
+    </model-viewer>
+    <div class="model-title">Andamio Biomaterial (Scaffold)</div>
+    <div class="model-desc">Estructura 3D que sirve como Soporte para que las Células se Adhieran, Crezcan y Formen Tejido durante la Bioimpresión.</div>
+   </div>
+  </div></template>
+        <div class="s_embed_code_embedded o_not_editable container"><script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"/><style>
+  .model-card {
+    display: inline-block;
+    margin: 20px;
+    text-align: center;
+    background: #f9f9f9;
+    border-radius: 15px;
+    padding: 15px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+    transition: transform 0.3s;
+  }
+  .model-card:hover {
+    transform: scale(1.02);
+  }
+  .model-viewer {
+    width: 350px;
+    height: 350px;
+    border-radius: 12px;
+    background-color: #fff;
+  }
+  .model-title {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    color: #222;
+    margin-top: 10px;
+  }
+  .model-desc {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    color: #555;
+  }
+</style><div id="multi-viewer" style="text-align:center;">
+    
+    
+  <div class="model-card">
+    <model-viewer class="model-viewer" src="https://3d-organ-inc-web.odoo.com/web/content/506?unique=1aae4ce1bd428c1987395b3cb6a6fc7c89a96f34&amp;download=true" alt="Modelo 3D del Oído Humano" camera-controls="" auto-rotate="" rotation-per-second="30deg" shadow-intensity="1" exposure="1.2" interaction-prompt="auto">
+    </model-viewer>
+    <div class="model-title">Oído Humano</div>
+    <div class="model-desc">Modelo anatómico 3D del oído (externo, medio e interno). Interactivo para explorar estructura y función auditiva.</div>
+  </div>
+  
+  
+  
+  
+
+  <div class="model-card">
+    <model-viewer class="model-viewer" src="https://3d-organ-inc-web.odoo.com/web/content/526?unique=7e5dadfe9647d25f2c0abf01f0c1adc038ca0e04&amp;download=true" alt="Modelo 3D del Corazón" camera-controls="" auto-rotate="" rotation-per-second="25deg" shadow-intensity="1" exposure="1.2" interaction-prompt="auto">
+    </model-viewer>
+    <div class="model-title">Impresora 3D</div>
+    <div class="model-desc">Representación del equipo que deposita biotinta capa a capa para construir tejidos tridimensionales.</div>
+   </div>
+   
+   
+   
+   
+   
+   <div class="model-card">
+    <model-viewer class="model-viewer" src="https://3d-organ-inc-web.odoo.com/web/content/528?unique=b5fc4e85d7b1fda6fe5949dbf5166ef8b304ea6b&amp;download=true" alt="Modelo 3D del Corazón" camera-controls="" auto-rotate="" rotation-per-second="25deg" shadow-intensity="1" exposure="1.2" interaction-prompt="auto">
+    </model-viewer>
+    <div class="model-title">Oído BioImpreso</div>
+    <div class="model-desc">Versión simulada del oído tras el proceso de bioimpresión — muestra la forma final y la microestructura esperada.</div>
+   </div>
+   
+   
+   
+   
+   
+   <div class="model-card">
+    <model-viewer class="model-viewer" src="https://3d-organ-inc-web.odoo.com/web/content/529?unique=c87a7979e62a4d4c40938614d0f8cab12d258751&amp;download=true" alt="Modelo 3D del Corazón" camera-controls="" auto-rotate="" rotation-per-second="25deg" shadow-intensity="1" exposure="1.2" interaction-prompt="auto">
+    </model-viewer>
+    <div class="model-title">BioTinta</div>
+    <div class="model-desc">Modelo de la composición y microestructura de la biotinta: matriz, células y aditivos usados en impresión de tejidos.</div>
+   </div>
+   
+   
+   
+   
+   
+   <div class="model-card">
+    <model-viewer class="model-viewer" src="https://3d-organ-inc-web.odoo.com/web/content/600?unique=32859359f80a1590483fb5690f7dd71557e74a07&amp;download=true" alt="Modelo 3D del Corazón" camera-controls="" auto-rotate="" rotation-per-second="25deg" shadow-intensity="1" exposure="1.2" interaction-prompt="auto">
+    </model-viewer>
+    <div class="model-title">Coclea</div>
+    <div class="model-desc">Modelo 3D de la cóclea: estructura en espiral responsable de convertir vibraciones en señales neuronales.</div>
+   </div>
+   
+   
+   
+   
+   
+   <div class="model-card">
+    <model-viewer class="model-viewer" src="https://3d-organ-inc-web.odoo.com/web/content/601?unique=d152ca1b3c192b380fa5b439dae360f26140297b&amp;download=true" alt="Modelo 3D del Corazón" camera-controls="" auto-rotate="" rotation-per-second="25deg" shadow-intensity="1" exposure="1.2" interaction-prompt="auto">
+    </model-viewer>
+    <div class="model-title">Sonido Interno</div>
+    <div class="model-desc">Visualización dinámica del recorrido de la onda sonora desde la entrada hasta la transducción neuronal.</div>
+   </div>
+   
+   
+   
+   
+   
+   <div class="model-card">
+    <model-viewer class="model-viewer" src="https://3d-organ-inc-web.odoo.com/web/content/602?unique=d76134b0caaeecc47e12826a6edf4d8f8cecb815&amp;download=true" alt="Modelo 3D del Corazón" camera-controls="" auto-rotate="" rotation-per-second="25deg" shadow-intensity="1" exposure="1.2" interaction-prompt="auto">
+    </model-viewer>
+    <div class="model-title">Incubadora</div>
+    <div class="model-desc">Modelo de la incubadora usada para conservar y madurar tejidos bioimpresos en condiciones controladas.</div>
+   </div>
+   
+   
+   
+   
+   
+   <div class="model-card">
+    <model-viewer class="model-viewer" src="https://3d-organ-inc-web.odoo.com/web/content/603?unique=0022f69be6209e45db512d360f6f030580c091aa&amp;download=true" alt="Modelo 3D del Andamio Biomaterial" camera-controls="" auto-rotate="" rotation-per-second="25deg" shadow-intensity="1" exposure="1.2" interaction-prompt="auto">
+    </model-viewer>
+    <div class="model-title">Andamio Biomaterial (Scaffold)</div>
+    <div class="model-desc">Estructura 3D que sirve como Soporte para que las Células se Adhieran, Crezcan y Formen Tejido durante la Bioimpresión.</div>
+   </div>
+  </div></div>
+    </section>
+    <section class="s_call_to_action o_cc o_cc5 o_colored_level pb32 pt56" data-oe-shape-data="{&quot;shape&quot;:&quot;html_builder/Rainy/08_001&quot;}" data-snippet="s_call_to_action">
+        <div class="o_we_shape o_html_builder_Rainy_08_001"/>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 o_colored_level">
+                    <h2 class="h3-fs" style="text-align: center;">Ayúdanos a proteger y conservar la naturaleza para las próximas generaciones</h2>
+    <p class="lead" style="text-align: center;">Aqui se prueban Funcionalidades extras como Integracion de Modelos 3D y Audios en la Web</p>
+    </div>
+                <div class="col-lg-12 o_colored_level">
+                    <p style="text-align: center;">
+                        <a class="o_translate_inline btn btn-primary" href="#">Autodirigir</a>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>
+    </t>
+</t>

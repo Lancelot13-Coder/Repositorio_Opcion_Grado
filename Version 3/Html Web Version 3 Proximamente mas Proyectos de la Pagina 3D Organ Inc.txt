@@ -1,0 +1,23 @@
+CODIGO del Proyecto de Semillero de Opción de Grado llamado 3D Organ-Inc Versión 3, Formato HTML y .text de la Pagina Próximamente mas Proyectos de la PLATAFORMA WEB:
+
+
+
+<t t-name="website.proximamente-mas-organos">
+    <t t-call="website.layout">
+        <div id="wrap" class="oe_structure oe_empty"><section class="s_cover parallax s_parallax_is_fixed o_cc o_cc5 pt256 pb256 o_colored_level" data-scroll-background-ratio="1" data-snippet="s_cover">
+        <span class="s_parallax_bg oe_img_bg o_bg_img_center o_bg_img_origin_border_box" style="background-image: url('/web/image/website.s_cover_default_image'); background-position: 50% 75%;"/>
+        <div class="o_we_bg_filter bg-black-50"/>
+        <div class="container s_allow_columns">
+        <i class="fa fa-bullhorn fa-2x d-block my-3 mx-auto rounded-circle bg-o-color-4 text-o-color-1"/>
+            <h1 style="text-align: center;"><strong>Próximamente</strong></h1>
+    <p class="lead" style="text-align: center;"><span class="h5-fs">
+        Nuestra misión es Concientizar a&amp;nbsp;las personas Acerca del buen uso que se le puede</span><br/><span class="h5-fs"> dar a la Bioimpresion 3D en el Campo de la Medicina Regenerativa.</span></p>
+        <p class="lead" style="text-align: center;"><br/></p>
+            <p style="text-align: center;">
+                &amp;nbsp;<a href="/contactus" class="btn btn-outline-secondary mb-2 o_translate_inline"><span class="h4-fs"><strong>Contáctanos</strong></span></a>
+            </p>
+        </div>
+    </section>
+</div>
+    </t>
+</t>

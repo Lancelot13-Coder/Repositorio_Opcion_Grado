@@ -1,0 +1,67 @@
+CODIGO del Proyecto de Semillero de Opción de Grado llamado 3D Organ-Inc Versión 3, Formato HTML y .text de la Pagina Galería de la PLATAFORMA WEB:
+
+
+
+<t t-name="website.galeria">
+    <t t-call="website.layout">
+        <div id="wrap" class="oe_structure oe_empty"><section class="s_text_block pb0 o_colored_level pt8" data-snippet="s_text_block">
+        <div class="container s_allow_columns"><h2 style="text-align: justify;"><strong>&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 🧬 Galería de Modelos 3D</strong></h2><h3 style="text-align: center;"><strong>Explora, Aprende y Visualiza el futuro de la Bioimpresión 3D</strong></h3><h3><br/></h3></div>
+    </section>
+    <section class="s_text_block o_colored_level pt8 pb0" data-snippet="s_text_block">
+        <div class="s_allow_columns container"><p><span class="h5-fs">Bienvenido a la Galería Interactiva de <strong>3D Organ Inc</strong>, donde podrás explorar los Proyectos de Modelos Anatómicos Tridimensionales, textos teoricos y Audios Explicativos.</span></p><p><span class="h5-fs">
+Cada órgano incluye su propio Módulo educativo con Explicaciones Visuales del proceso de <strong>Bioimpresión 3D</strong>, desde el Diseño Digital hasta la Creación del Tejido; cada modulo de un organo contiene su pagina de contextualizacion del mismo, secciones en la misma y una galeria de modelos del proceso, cada modelo tiene su propia pagina con modulos, contenido visual y auditivo relacionado al modelo que se estara visualizando. Los modulos que dicen Proximamente son los que se encuentran aun en Desarrollo y estaran preparados para su posible Lanzamiento en un Futuro.</span></p><p><span class="h5-fs">Para acceder al Modulo del Organo Bioimpreso deseado da click en el boton denominado " Conocer mas al Respecto " del respectivo Organo deseado.</span></p></div>
+    </section>
+    <section class="s_three_columns o_colored_level pt0 pb24" data-vxml="001" data-vcss="001" data-snippet="s_three_columns">
+        <div class="container">
+            <div class="row d-flex align-items-stretch">
+                <div data-name="Card" class="col-lg-4 pt16 pb16">
+                    <div class="s_card card h-100 o_cc o_cc1 my-0 o_colored_level o_card_img_top" data-vxml="001" data-snippet="s_card" data-name="Card" style="--card-img-ratio-align: 35%;">
+                        <figure class="o_card_img_wrapper mb-0 ratio ratio-16x9 o_card_img_adjust_v">
+                            <img src="/web/image/590-96212096/Modelo%203D%20Oido%20Galeria%203D%20Organ%20Inc.webp" alt="" data-attachment-id="589" class="o_card_img img img-fluid o_we_custom_image card-img-top" data-format-mimetype="image/webp" data-original-id="589" data-original-src="/web/image/589-44af79ed/Modelo%203D%20Oido%20Galeria%203D%20Organ%20Inc.png" data-mimetype-before-conversion="image/png" data-resize-width="690" data-mimetype="image/webp" loading="lazy"/>
+                        </figure>
+                        <div class="card-body">
+                            <h2 class="card-title h5-fs">🦻 <strong>Modelo del Oído</strong></h2>
+                            <p class="card-text">Explora la anatomía del oído humano y comprende cómo este órgano capta, amplifica y transforma las ondas sonoras en señales eléctricas para el cerebro.</p><p class="card-text">Mediante recursos educativos como un modelo 3D interactivo, textos teoricos y audios con subtitulos visualizaras y podrás observar sus tres secciones (externa, media e interna), ademas de aprender su funcionamiento y partes; conoceras el proceso de bioimpresion 3d del mismo para su reemplazo en el ambito de la medicina regenerativa.</p>
+                        </div>
+        <div class="card-footer">
+            <a class="card-link" href="/oido">Conocer más al respecto...</a>
+        </div>
+                    </div>
+                </div>
+                <div data-name="Card" class="col-lg-4 pt16 pb16">
+                    <div class="s_card card h-100 o_cc o_cc1 my-0 o_colored_level o_card_img_top" data-vxml="001" data-snippet="s_card" data-name="Card" style="--card-img-ratio-align: 35%;">
+                        <figure class="o_card_img_wrapper mb-0 ratio ratio-16x9 o_card_img_adjust_v">
+                            <img src="/web/image/597-0c59f552/Tejido%20Ocular%20Proximamente%20Galeria%203D%20Organ%20Inc.webp" alt="" data-attachment-id="596" class="o_card_img img img-fluid o_we_custom_image card-img-top" data-format-mimetype="image/webp" data-original-id="596" data-original-src="/web/image/596-0daecb08/Tejido%20Ocular%20Proximamente%20Galeria%203D%20Organ%20Inc.png" data-mimetype-before-conversion="image/png" data-resize-width="690" data-mimetype="image/webp" loading="lazy"/>
+                        </figure>
+                        <div class="card-body">
+                            <h2 class="card-title h5-fs">👁️&amp;nbsp;<strong>Modelo Tejido Ocular</strong></h2><p><br/></p>
+                            <p class="card-text">
+        En un futuro seguiremos ampliando nuestra galería con nuevos modelos y módulos educativos&amp;nbsp; progresivamente.</p><p class="card-text">&amp;nbsp;El objetivo es que <strong>cualquier persona</strong>, desde estudiantes hasta curiosos, pueda visualizar cómo la tecnología 3D está transformando la medicina regenerativa en la actualidad.&amp;nbsp;</p>
+                        </div>
+        <div class="card-footer">
+            <a class="card-link" href="/tejido-ocular-proximamente">Conocer más al respecto...</a>
+        </div>
+                    </div>
+                </div>
+                <div data-name="Card" class="col-lg-4 pt16 pb16">
+                    <div class="s_card card h-100 o_cc o_cc1 my-0 o_colored_level o_card_img_top" data-vxml="001" data-snippet="s_card" data-name="Card" style="--card-img-ratio-align: 31%;">
+                        <figure class="o_card_img_wrapper mb-0 ratio ratio-16x9 o_card_img_adjust_v">
+                            <img src="/web/image/599-4cd83b8f/Muy%20Pronto%20Organos%20Proximamente%20Galeria%203D%20Organ%20Inc.webp" alt="" data-attachment-id="598" class="o_card_img card-img-top img img-fluid o_we_custom_image" data-format-mimetype="image/webp" data-original-id="598" data-original-src="/web/image/598-72e32842/Muy%20Pronto%20Organos%20Proximamente%20Galeria%203D%20Organ%20Inc.png" data-mimetype-before-conversion="image/png" data-resize-width="690" data-mimetype="image/webp" loading="lazy"/>
+                        </figure>
+                        <div class="card-body">
+                            <h2 class="card-title h5-fs">🧫 <strong>Más órganos en camino</strong></h2>
+                            <p class="card-text"><br/></p><p>Muy pronto seguiremos ampliando nuestra galería con nuevos modelos y módulos educativos.</p><p>
+El objetivo es que <strong>cualquier persona</strong>, desde estudiantes hasta curiosos, pueda visualizar cómo la tecnología 3D está transformando la medicina regenerativa.</p>
+                        </div>
+        <div class="card-footer">
+            <a class="card-link" href="/proximamente-mas-organos">Conocer más al respecto...</a>
+        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+</div>
+    </t>
+</t>

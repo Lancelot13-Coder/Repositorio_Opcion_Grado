@@ -1,0 +1,146 @@
+CODIGO del Proyecto de Semillero de Opción de Grado llamado 3D Organ-Inc Versión 3, Formato HTML y .text de la Pagina Funcionamiento de la PLATAFORMA WEB:
+
+
+
+<t t-name="website.funcionamiento">
+    <t t-call="website.layout">
+        <div id="wrap" class="oe_structure oe_empty"><section class="s_text_block pb0 o_colored_level pt8" data-snippet="s_text_block">
+        <div class="container s_allow_columns">
+            <h1 style="text-align: center;"><strong>¿Cómo funciona 3D Organ Inc?</strong></h1>
+        </div>
+    </section>
+    <section class="s_features_grid o_colored_level pt16 pb4" data-vcss="001" data-snippet="s_features_grid">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 s_col_no_bgcolor pb32">
+                    <div class="row">
+                        <div class="col-lg-12 o_colored_level" data-name="Box">
+                            <h2 class="h3-fs"><strong>Características principales</strong></h2>
+                            <p class="lead h5-fs">Nuestra plataforma web muestra de forma clara y visual cada fase del proceso de bioimpresión 3D, desde el modelado digital hasta la creación del órgano y su implementacion en el cuerpo humano.</p>
+                            <div class="s_hr pt32 pb-2"><br/><br/><hr class="w-100 mx-auto"/>
+                            </div>
+                        </div>
+                        <div class="col-lg-12 py-3 o_colored_level" data-name="Box">
+                            <i class="fa fa-flag-o rounded bg-o-color-3 s_features_grid_icon float-start flex-shrink-0" role="img"/>
+                            <div class="s_features_grid_content mb-0 d-flex flex-column">
+                                <h3 class="h5-fs"><strong>Modelado 3D</strong></h3>
+                            </div>
+                        </div>
+                        <div class="col-lg-12 py-3 o_colored_level" data-name="Box">
+                            <i class="fa fa-files-o rounded bg-o-color-3 s_features_grid_icon float-start flex-shrink-0" role="img"/>
+                            <div class="s_features_grid_content d-flex flex-column">
+                                <h3 class="h5-fs"><strong>Preparación del bio-tóner (biomaterial)</strong></h3>
+                                <p><br/></p>
+                            </div>
+                        </div>
+                        <div class="col-lg-12 py-3 o_colored_level" data-name="Box">
+                            <i class="fa fa-trash-o rounded bg-o-color-3 s_features_grid_icon float-start flex-shrink-0" role="img"/>
+                            <div class="s_features_grid_content d-flex flex-column">
+                                <h3 class="h5-fs"><strong>Proceso de bioimpresión</strong></h3>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6 s_col_no_bgcolor pb0">
+                    <div class="row">
+                        <div class="col-lg-12 o_colored_level" data-name="Box">
+                            <h2 class="h3-fs"><strong>El fin de esta Iniciativa</strong></h2>
+                            <p class="lead h5-fs">El objetivo es que cualquier persona, sin importar su formación, pueda entender cómo esta tecnología está revolucionando la medicina regenerativa en la actualidad y el proceso que conlleva.</p>
+                            <div class="s_hr pt32 pb-2">
+                                <hr class="w-100 mx-auto"/>
+                            </div>
+                        </div>
+                        <div class="col-lg-12 py-3 o_colored_level" data-name="Box">
+                            <i class="fa fa-magic rounded bg-o-color-3 s_features_grid_icon float-start flex-shrink-0" role="img"/>
+                            <div class="s_features_grid_content d-flex flex-column">
+                                <h3 class="h5-fs"><strong>Seleccion y Contexto Introductorio acerca del Modelo 3D Elegido</strong></h3>
+                            </div>
+                        </div>
+                        <div class="col-lg-12 py-3 o_colored_level" data-name="Box">
+                            <i class="fa fa-eyedropper rounded bg-o-color-3 s_features_grid_icon float-start flex-shrink-0" role="img"/>
+                            <div class="s_features_grid_content d-flex flex-column">
+                                <h3 class="h5-fs"><strong>Aceptacion de Politicas e Ingreso a Interfaz del Modelo</strong></h3>
+                            </div>
+                        </div>
+                        <div class="col-lg-12 py-3 o_colored_level" data-name="Box">
+                            <i class="fa fa-picture-o rounded bg-o-color-3 s_features_grid_icon float-start flex-shrink-0" role="img"/>
+                            <div class="s_features_grid_content d-flex flex-column">
+                                <h3 class="h5-fs"><strong>Uso de los recursos Proporcionados ( Modelo 3D en Blender&amp;nbsp;y Audio tipo Podcast )</strong></h3>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section><section class="s_picture o_colored_level pt0 pb16" data-snippet="s_picture" data-name="Título - Imagen">
+        <div class="o_container_small">
+            <h2 style="text-align: center;">&amp;nbsp;<br/></h2>
+            <div class="row">
+                <div class="col-lg-12 o_colored_level pt0" style="text-align: center;">
+                    <figure class="figure">
+                        <img src="/web/image/588-fe1b3006/Funcionamiento%25203D%2520Organ%2520Inc.svg" alt="" data-attachment-id="587" class="figure-img img-fluid img o_we_custom_image rounded" data-shape-colors=";#ADEFD1;;;" data-format-mimetype="image/webp" data-original-id="587" data-original-src="/web/image/587-800d33b9/Funcionamiento%203D%20Organ%20Inc.png" data-mimetype-before-conversion="image/png" data-resize-width="690" data-mimetype="image/webp" data-file-name="Funcionamiento%203D%20Organ%20Inc.svg" loading="lazy"/>
+                        <figcaption class="figure-caption text-muted mt-2">Donde la innovación y el rendimiento se unen</figcaption>
+                    </figure>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="s_text_block pb0 o_cc2 o_colored_level pt8" data-snippet="s_text_block">
+        <div class="container s_allow_columns">
+            <h2 style="text-align: left;"><strong>Interactividad de la Plataforma</strong></h2>
+        </div>
+    </section>
+    <section class="s_faq_collapse o_cc o_cc2 o_colored_level pt32 pb24" data-vcss="001" data-snippet="s_faq_collapse">
+        <div class="container">
+            <div class="row s_nb_column_fixed align-items-start">
+                <div class="col-lg-4 o_colored_level pt0">
+                    <h2 class="h3-fs"><strong>Preguntas frecuentes</strong></h2>
+                    <p class="lead"><span class="h5-fs">Estas son algunas de las preguntas comunes acerca de nuestra Web Educativa y Desarrollo.</span></p>
+                </div>
+                <div class="col-lg-7 offset-lg-1 s_col_no_bgcolor" data-name="Accordion Box">
+    <div data-name="Accordion" class="s_accordion">
+        <div id="myCollapse" class="accordion-flush accordion">
+            <div class="accordion-item position-relative z-1" data-name="Accordion Item">
+                <button type="button" class="accordion-header accordion-button justify-content-between gap-2 bg-transparent h6-fs fw-bold text-decoration-none text-reset transition-none collapsed" data-bs-toggle="collapse" aria-expanded="false" id="accordion-button104211_1" data-bs-target="#myCollapseTab104211_1" aria-controls="myCollapseTab104211_1"><span class="flex-grow-1"><p><span class="h5-fs">Aprende explorando</span></p></span></button>
+                <div class="accordion-collapse collapse" data-bs-parent="#myCollapse" role="region" id="myCollapseTab104211_1" aria-labelledby="accordion-button104211_1">
+                    <div class="accordion-body">
+                        <p><span class="h5-fs">Los Usuarios pueden interactuar con Modelos 3D, Escuchar Narraciones Explicativas ( tipo Podcast )&amp;nbsp;y Acceder a una Galería de Organos con los que contamos en Nuestra Plataforma.</span></p><p><span class="h5-fs">
+Cada Módulo incluye explicacion detallada y facil de entender acerca del proceso u elemento en especifico que aprendera, un Modelo en 3D que puede mover como quiera del mismo elemento, Audios y Demas Material de Estudio.</span></p>
+                    </div>
+                </div>
+            </div>
+            <div class="accordion-item position-relative z-1" data-name="Accordion Item">
+                <button type="button" class="accordion-header accordion-button justify-content-between gap-2 bg-transparent h6-fs fw-bold text-decoration-none text-reset transition-none" data-bs-toggle="collapse" aria-expanded="true" id="accordion-button104211_2" data-bs-target="#myCollapseTab104211_2" aria-controls="myCollapseTab104211_2"><span class="flex-grow-1"><p><span class="h5-fs">Tecnología detrás de 3D Organ Inc</span></p></span></button>
+                <div class="accordion-collapse collapse show" data-bs-parent="#myCollapse" role="region" id="myCollapseTab104211_2" aria-labelledby="accordion-button104211_2">
+                    <div class="accordion-body">
+                        <p><span class="h5-fs">Desarrollado en <strong>Odoo</strong>, combinamos&amp;nbsp;audios y simulaciones 3D para una experiencia educativa accesible y moderna al usuario con respecto a su aprendizaje acerca de la Bioimpresion 3D en el contexto de la Medicina Regenerativa.</span></p><p><span class="h5-fs">
+Utilizando Modelos 3D creados en <em>Blender</em> y apoyandonos en principios de <strong>Usabilidad </strong>y <strong>Aprendizaje Visual </strong>para el Publico Interesado.</span></p>
+                    </div>
+                </div>
+            </div>
+            
+        </div>
+    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="s_call_to_action o_cc o_cc5 o_colored_level pt16 pb32" data-oe-shape-data="{&quot;shape&quot;:&quot;html_builder/Rainy/08_001&quot;}" data-snippet="s_call_to_action">
+        <div class="o_we_shape o_html_builder_Rainy_08_001"/>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 o_colored_level">
+                    <h2 class="h3-fs" style="text-align: center;"><span class="h2-fs"><strong>Ayúdanos a Proteger y Conservar la Naturaleza para las Próximas Generaciones mediante el Uso de la Bioimpresion 3D en la Medicina Regenerativa.</strong></span></h2>
+    <p class="lead" style="text-align: center;"><span class="h5-fs"><strong>Juntos Cambiemos y Hagamos del Planeta un Lugar Mejor y Sostenible.</strong></span></p>
+    </div>
+                <div class="col-lg-12 o_colored_level">
+                    <p style="text-align: center;">
+                        <a class="o_translate_inline btn btn-primary" href="/contactus"><span class="h5-fs"><strong>Contáctanos Hoy Mismo !!!</strong></span></a>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>
+    </t>
+</t>
